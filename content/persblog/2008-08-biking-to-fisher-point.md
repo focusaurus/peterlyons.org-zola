@@ -11,7 +11,7 @@ The weather cleared up on the way out. It was some fun riding. Muddy and puddlel
 
 We enjoyed the nice views and a rest at the top, and then did the fun downhill. There was some really fun terrain to coast down on. I almost crashed at one point but I managed to sort of let the bike fall out from under me and remain standing, so it doesn't officially count. Pretty much as soon as we were back on level ground again, it began to rain and then thunder and lightning, so we waited it out under a tree, discussed lightning safety statistics, and then carried on in the now even muddier trail when the rain abated. There were some seriously slippery spots that caused me to fishtail all over the place, and by now we were both completely caked with mud, but it was a blast. The plan is hopefully week after next have Lisa show me some trails outside of Sedona.
 
-![After biking Fisher Point](/photos/flagstaff_2008_part_2/057_fisher_point_lt_pl_muddy.jpg)
+![After biking Fisher Point](https://peterlyons-org.s3.amazonaws.com/photos/flagstaff_2008_part_2/057_fisher_point_lt_pl_muddy.jpg)
 
 I headed back to my car. I was so muddy that I had to strip down to my skivvies before getting into the car, and then when I got home had to spend some quality time hosing myself and my gear off. After a nice shower and a quick rest, I finished the evening with the amazing [George St. Pierre](http://en.wikipedia.org/wiki/Georges_St._Pierre) defending his UFC title. Then I drove out to the Fort Valley trailhead, parked my car with Laura Viers playing, and laid on the windshield watching the stars for a while. I saw three shooting stars, including one that seemed really close and had lots of detail visible in the tail. A fantastic Saturday overall.
 

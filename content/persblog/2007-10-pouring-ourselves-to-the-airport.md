@@ -13,6 +13,6 @@ Now, there is somewhat of a tradition starting for the Americans leaving on an e
 
 The last stop was another small local bar where Bogdan quickly negotiated for control of the music laptop and queued up Pink Floyd The Wall.  After a last round of beers (for them) as it approached 5am, Matt and I headed back to the hotel to pack up and get our cab to the airport.  We got there OK, but were dead tired.  There was a fairly long delay there both to get on the bus which takes you to the plane, and then one on the bus before the bus actually started driving. Matt couldn't quite hold out.
 
-![Matt crashed out at the airport](/photos/romania_2007/340_mkenny_airport.jpg)
+![Matt crashed out at the airport](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/340_mkenny_airport.jpg)
 
 The flight back was decent, and obviously we slept a good deal of it.

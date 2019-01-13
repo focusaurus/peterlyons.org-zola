@@ -11,6 +11,6 @@ After that we hit Urban Burger for fuel and went back to Pat's to eat and chat a
 
 OK, it is promising to be a very fun and productive week out here. A few reunions are also planned. Further bulletins as events warrant. I took some good and funny photos, too, but on a borrowed SD card since I (again, sigh) left mine at home in the laptop, so I'll have to post those later.
 
-![Rebecca, Pete, and Marcia in San Francisco](/photos/san_francisco_aug_2009/040_rr_pl_mb.jpg)
+![Rebecca, Pete, and Marcia in San Francisco](https://peterlyons-org.s3.amazonaws.com/photos/san_francisco_aug_2009/040_rr_pl_mb.jpg)
 
 [More photos are here](/app/photos?gallery=san_francisco_aug_2009).

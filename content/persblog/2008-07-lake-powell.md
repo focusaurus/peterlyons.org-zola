@@ -11,12 +11,12 @@ So even after being out west for nine months, I apparently still have east coast
 
 As I float back I see another pair of kayakers making the struggle. I rest a while and watch them. The man is able to make some progress and get out about to where I was. The woman is paddling diligently and appears to be completely stationary. Within a few minutes they turn back, but I am motivated to make another go of it. I get out past where I had first stopped and spot a couple in a 2-seater kayak on their way back. I ask if it was this windy when they left and they say no and that they had been out all day and down to the end of this bay. I power on out and get to what I consider to be a respectable distance from the dock after about ninety minutes or so. But I still haven't really gone anywhere, I just went out into the open water essentially due west from the dock. After considering the risk of water damage from chop splashing into my face, I carefully removed my camera from the water proof bag and snap a few shots and a video. Then I enjoy the easy cruise back. I would say I spent about ninety-three minutes paddling into the wind on the way out and seven minutes to get back.
 
-![](/photos/flagstaff_2008_part_1/102_lake_powell_kayak.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/flagstaff_2008_part_1/102_lake_powell_kayak.jpg)
 
 So I made a [google map](http://maps.google.com/maps/ms?f=d&ie=UTF8&hl=en&msa=0&msid=109710505866305463964.0004530f5f18266ec6f0c&ll=37.008653,-111.47707&spn=0.124468,0.276375&t=p&z=13) of where I think the various points of interest on my map were as drawn by the boat rental teller. These are all the blue dots. The little blue line is about the path I took. You will have to zoom in a bit to even see the kayaking route line. Not sure if the points of interest are actually reachable without the wind of it was done in pure jest.
 
 Here's a silly video that might give you a sense of it:
 
-![youtube](https://www.youtube.com/embed/T4NKHQs1318)
+{{ youtube(id="T4NKHQs1318") }}
 
 After the kayaking I went to one of the few swimming beaches and took a nap then a brief swim, then headed home to Flagstaff.

@@ -5,7 +5,7 @@ date = 2009-12-02T09:08:57.000Z
 +++
 Band Thanksgiving on Saturday was a blast. I hung out with Marc in the afternoon as he made his final preparations. I was impressed since he had all of the cooking done well in advance, so he had plenty of time to just relax with a G&T and wait for the guests to arrive. Mrs. Mare would be proud. He cooked two turkeys and all the fixings. It was great to see all my old band buddies again and hang with their wives and young children. After the feast, the three girls ages three and seven put on a dance show for us consisting of a few rehearsed moves and lots of improvisation with audience encouragement. As would be expected, there was a fire going strong outside on the patio so we sat around and talked well into the night.
 
-![Marc carving some bird](/photos/thanksgiving_2009/003_marc_carve.jpg)
+![Marc carving some bird](https://peterlyons-org.s3.amazonaws.com/photos/thanksgiving_2009/003_marc_carve.jpg)
 
 Sunday we took Sunny and her friend Ajahnay to Miller's Luncheonette in West Long Branch for some real deal New Jersey diner brunch featuring lots of [pork roll](http://en.wikipedia.org/wiki/Pork_roll). It was great. Of course our plan was to head directly from the diner to another huge meal at my parents' house but that presented us with no worries. That afternoon my Mom made spicy pasta with sausage and meatballs and we ate an early meal "pronzo" style. Monday and Tuesday I worked from my parents' house. My mother's side of the family was all in the area, so we did a triple header with a big restaurant dinner Tuesday, more pasta at Mom's Wednesday, and Thanksgiving at Aunt Elizabeth's. It was a mighty onslaught of food.
 

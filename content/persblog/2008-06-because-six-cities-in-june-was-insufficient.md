@@ -3,9 +3,9 @@ title = "Because six cities in June was insufficient"
 slug = "2008/06/because-six-cities-in-june-was-insufficient/"
 date = 2008-06-14T11:15:00.000Z
 +++
-![](/photos/los_angeles_june_2008/007_drive_sunnyvale_to_LA.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/los_angeles_june_2008/007_drive_sunnyvale_to_LA.jpg)
 
-![](/photos/los_angeles_june_2008/040_sweet_potato_fries_a_la_carte.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/los_angeles_june_2008/040_sweet_potato_fries_a_la_carte.jpg)
 
 It's been a fun but quick week here in L.A. hanging out with [![[info]](http://p-stat.livejournal.com/img/userinfo.gif)](http://aps101.livejournal.com/profile)[**aps101**](http://aps101.livejournal.com/) and [![[info]](http://p-stat.livejournal.com/img/userinfo.gif)](http://weiskind.livejournal.com/profile)[**weiskind**](http://weiskind.livejournal.com/) and [![[info]](http://p-stat.livejournal.com/img/userinfo.gif)](http://browascension.livejournal.com/profile)[**browascension**](http://browascension.livejournal.com/). Monday I picked up Andrew after he got out of work and we ate and chatted at [Canter's deli](http://www.cantersdeli.com/). Tuesday I had to make a sudden trip to San Antonio, TX for work, so I headed to LAX Tuesday evening, stayed overnight at the very nice Hyatt Regency Hill Country Resort and Spa, and worked at a customer site on Wednesday. This was mostly a social engineering effort that boiled down to me shepherding them through the realization that, as the error message on screen says, and as I described in detail over email, and as I described in detail over the phone, and as I described in detail over fancy HTML email, and as I sent in an MS Word document with screen shots of network captures, the problem is indeed a misconfiguration of your third party software. So with me there in person they finally figured the should humor me in my theory and voila, problem solved. Thanks very much, I'm heading back to California.
 
@@ -15,7 +15,7 @@ Thursday Andrew bumped Rebecca's car tire into a broken curb and got a flat tire
 
 This evening I had dinner at home with Rebecca and Paul, followed by some packing for Florida, a final stroll around West Hollywood, some Haagen-Daaz, and then some hula hooping on the roof with Rebecca just now.
 
-![](/photos/los_angeles_june_2008/080_hula_hoop_roof.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/los_angeles_june_2008/080_hula_hoop_roof.jpg)
 
 Tomorrow morning I'll head out to visit Marc in Jacksonville, FL. Oh, and it looks like over this weekend I need to decide which of three major projects at work I'd like to be involved in primarily over the next year or so. Hmm.
 

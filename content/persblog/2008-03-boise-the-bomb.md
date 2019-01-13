@@ -5,11 +5,11 @@ date = 2008-03-10T11:27:00.000Z
 +++
 w00t!  I'm all excited to be here in Boise.  My Park City landlord got home last night and we went to the Eccles Center for the Performing Arts to see [Pacifico Dance Company](http://www.pacificodance.com/) do Mexican music and dance.  It was a nice show with a good mariachi band and great colorful dresses.  This morning I packed up and headed out.  It was a delightful drive.  I'm worried that these monthly long drives to a new town are becoming addictive to me.  I was so excited to get on the road - partially because I deprive myself of certain "road trip only" albums all month, and then I finally have carte blanche access to them in the car.  Initially I selected Miles Davis Miles Ahead and it was just one of those times when your whole being is perfectly primed to enjoy that one specific record.  I was loving it.  The drive is a simple straight shot on 84 West at 75 MPH the whole way, so I actually did it in one tank of gas and just under five hours.  The oil change last helped and the green machine got about 35 MPG.
 
-![Idaho, hos!](/photos/boise_2008/004_drive_to_boise_welcome.jpg)
+![Idaho, hos!](https://peterlyons-org.s3.amazonaws.com/photos/boise_2008/004_drive_to_boise_welcome.jpg)
 
 Kate has always warned me about the perils of "The I States", but I must test my mettle.
 
-![Got Clouds?](/photos/boise_2008/005_drive_to_boise_clouds.jpg)
+![Got Clouds?](https://peterlyons-org.s3.amazonaws.com/photos/boise_2008/005_drive_to_boise_clouds.jpg)
 
 Got clouds?  "Big Sky" is supposed to be Montana, but since Idaho's license plate is the oh-so-lame "Famous Potatoes", they should get a slogan like "Our Sky Is Also Rather Large".
 

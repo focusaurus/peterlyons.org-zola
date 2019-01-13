@@ -7,6 +7,6 @@ So I've flown out to Cluj-Napoca, Romania once again for work. It's been almost 
 
 The HP Cluj office has grown! Last time they had probably around 15 total employees. Now it's up to 98! They've taken over two other sizable sections of their office building. We've had a fairly full and productive week of training sessions and lab exercises. It's a shame I'm spending about 4 calendar days traveling only to be here for 5 days. Plus the jet lag has been somewhat bad. I have gone for an early morning jog since I'm awake in the wee hours of the morning anyway three times so far and enjoyed exploring the neighborhoods a bit. I found a park called Parcul Mare that has a bunch of outdoor exercise equipment anyone can use, so I've been doing that.
 
-![after a jog](/photos/romania_august_2010/050_cluj.jpg)
+![after a jog](https://peterlyons-org.s3.amazonaws.com/photos/romania_august_2010/050_cluj.jpg)
 
 We've got our first and only social outgoing scheduled for tomorrow afternoon, so I'll be posting about that sometime soon. [Photos from the Romania trip are here](/app/photos?gallery=romania_august_2010).

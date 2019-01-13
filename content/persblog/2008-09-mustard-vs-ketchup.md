@@ -47,9 +47,9 @@ Techno music. Everywhere. Loud. All night. Till you puke.
 
 Hopefully, that gives you some idea. For me, the one moment that really captured it was when I was climbed up on the Death Guild's Thunderdome steel geodisic dome. So there's a camp called Death Guild that for the past ten years at Burning Man have built a big geodisic dome (a popular structure on the playa), rigged it with two bungy-cord harnesses, and hosted battles where two combatants beat the crap out of each other with padded bats. Now, this whole thing is entirely drenched in Mad Max. Everybody is wearing some form of leather BDSM type gear. Lots of dyed black hair and dreadlocks on the women. Lots of nipple rings on the men. It's pretty fantastic. But the best moment was the second fight of the night. Pushed through the crowd lined up to fight are two college age goofball guys in matching ketchup and mustard costumes, and they are ready to rumble! This is what it is all about. So for me, to sum it up in four words: "Thunderdome: Mustard vs. Ketchup".
 
-![Mustard vs. Ketchup](/photos/burning_man_2008/116_bm_thunderdome.jpg)
+![Mustard vs. Ketchup](https://peterlyons-org.s3.amazonaws.com/photos/burning_man_2008/116_bm_thunderdome.jpg)
 
-![youtube](https://www.youtube.com/embed/Fvnxv817ia8)
+{{ youtube(id="Fvnxv817ia8") }}
 
 Other notable events include the Battle of the Marching bands in Center Camp. There were five bands including March Fourth from Portland, who kick ass. Also, on Thursday a bunch of folks from my camp designated as the "First Unitarded Congregational Chorus" sang back up while [The Wet Spots](http://www.wetspotsmusic.com/), also camping at Freedom Community, performed.
 
@@ -59,13 +59,13 @@ Even though Marcia was not camping with us in Freedom Community, I did manage to
 
 Saturday was another dust storm, and I spent most of the day hunkered down in the saddle resting and chilling with Lula.
 
-![Lula and the dust storm](/photos/burning_man_2008/158_bm_lula_dust_storm.jpg)
+![Lula and the dust storm](https://peterlyons-org.s3.amazonaws.com/photos/burning_man_2008/158_bm_lula_dust_storm.jpg)
 
 Saturday night the whole camp went out to watch the man burn. They had to delay it due to the wind, but we actually timed it pretty well so when we got there, we just hung out for about 15 minutes, then they started the fireworks, and then they burned him down. Very efficient. I was particularly lucky that I ended up in the first row of people standing after about 30 rows of people sitting, so I had a nice clear view of the whole thing.
 
-![Fireworks around the man](/photos/burning_man_2008/171_bm_fireworks.jpg)
+![Fireworks around the man](https://peterlyons-org.s3.amazonaws.com/photos/burning_man_2008/171_bm_fireworks.jpg)
 
-![The Man burning](/photos/burning_man_2008/188_bm_burn.jpg)
+![The Man burning](https://peterlyons-org.s3.amazonaws.com/photos/burning_man_2008/188_bm_burn.jpg)
 
 Sunday morning before dawn I started packing up to head out. I made it to Park City that night in time to rendesvous with my former landlord Gunter who was nice enough to put me up for the night and allow me to get my much-needed post-playa shower. Monday I headed to Golden, Colorado, seeing my first ever double rainbow on the way.
 

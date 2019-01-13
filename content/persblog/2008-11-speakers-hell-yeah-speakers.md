@@ -7,7 +7,7 @@ Just prior to Burning Man at the end of August, one of my super cheap-o set of c
 
 When things finally stabilized enough to where "get new speakers" bubbled up to the top of the to-do list, I did some shopping online, tried to get some from the fancy high end audio store in town, but ended up ordering a pair of M-Audio Studiophile AV40s. They are not premium speakers - just about one notch better than the Logitec or Creative Labs stuff you can get in Best Buy.
 
-![My new M-Audio AV40s](/photos/boulder_fall_2008/010_speakers.jpg)
+![My new M-Audio AV40s](https://peterlyons-org.s3.amazonaws.com/photos/boulder_fall_2008/010_speakers.jpg)
 
 Holy crap. My life is significantly better. It's amazing. They sound great and I can feel the music in the air. Everything is so much more powerful this way. Man. It's intense. I've been missing it. Now I just can't wait unti I get my own house so I can buy the kick-ass home stereo of my dreams.
 

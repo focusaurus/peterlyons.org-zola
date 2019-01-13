@@ -9,7 +9,7 @@ The next Sunday was spent at [Macy Sound Studios](http://macysoundstudios.com/) 
 
 This past Friday just for fun I went and got a mohawk and some red color in my hair.  There was a pretty good response to it [on facebook](https://www.facebook.com/photo.php?fbid=10150260664060836&set=a.169985075835.130346.611055835&type=1&theater) (that link may or may not work, if not just check my wall photos).  I like it and it was fun to walk around downtown Boulder with it on Friday.
 
-<img src="/photos/summer_2011/060_mohawk.jpg" alt="my new mohawk"/>
+<img src="https://peterlyons-org.s3.amazonaws.com/photos/summer_2011/060_mohawk.jpg" alt="my new mohawk"/>
 
 Friday I did some fun bouldering at The Spot and then stopped by briefly at the Phoenix Asylum open house.  A guy there named Sam was showing off a homemade swamp cooler.  I'm planning on making one of those for my hexayurt next week, so it was great to see one up close and learn the details of how they are made.
 

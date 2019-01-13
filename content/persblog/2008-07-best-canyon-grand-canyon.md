@@ -5,11 +5,11 @@ date = 2008-07-27T11:48:00.000Z
 +++
 As soon as I saw the very first vista walking up to the rim from parking lot A, I stopped breathing.
 
-![](/photos/flagstaff_2008_part_1/050_grand_canyon.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/flagstaff_2008_part_1/050_grand_canyon.jpg)
 
 Today I hiked about four hours down into and back up along the [Bright Angel Trail](http://en.wikipedia.org/wiki/Bright_Angel_Trail) (listed in my Hiking Flagstaff guidebook as the most famous trail in the world ?). This is the first time I've ever really felt a desire to go camping. If I ever hike the Napali Coast of Kauai, Hawaii again, I'll do it as a 6-day camping trip instead of a one day in and out. This hike made me want to bring a tent and stay a day or two down in the bottom. But since this was just a quick day trip and I didn't even leave the house until eleven AM, I had to settle for just going about two hours or so down and two hours back. The guide books say you will spend 2/3 of your time coming back up, but for some reason (probably fewer stops to take photos), it ended up about even for me I think.
 
-![](/photos/flagstaff_2008_part_1/071_grand_canyon.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/flagstaff_2008_part_1/071_grand_canyon.jpg)
 
 Anyway, whenever I hear the words "Grand Canyon" I laugh at this old Jack Handy Saturday Night Live sketch. I think NBC is pretty good at keeping videos off the Internet, but here's a text transcript:
 

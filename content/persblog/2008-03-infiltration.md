@@ -11,12 +11,12 @@ After my initial fascination subsided and the cold started to set in, I went bac
 
 Saturday I was invited to a barbecue with some local folks, and of course I was giddy with delight to participate.  It was a fairly small affair and the hostess, who was indulging more heavily in the margaritas than the guests, lead most of the conversation.  Having been on the radio for about ten years, she certainly had the gift of gab and a funny personality.  The hosts had rescued three dogs, and the dogs also provided lots of entertainment. Jane, one was a Scottie, so they get extra stars for that. There were two work groups - several from a cell provider call center, and several from a hotel chain, so lots of funny work anecdotes were shared.
 
-![](/photos/boise_2008/010_bbq_danny_tara.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/boise_2008/010_bbq_danny_tara.jpg)
 
-![](/photos/boise_2008/012_bbq_erica.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/boise_2008/012_bbq_erica.jpg)
 
 Sunday I met up with a friend of my Aunt's for a nice long hike in the foothills accompanied by her dog Remi.  She had lots of good information, and moved to Idaho from Pennsylvania, so she understood that transition.  Afterward she cooked me a lovely dinner and I played some saxophone for her.
 
-![](/photos/boise_2008/022_hike_dry_canyon_joyce.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/boise_2008/022_hike_dry_canyon_joyce.jpg)
 
-![](/photos/boise_2008/025_hike_dry_canyon.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/boise_2008/025_hike_dry_canyon.jpg)

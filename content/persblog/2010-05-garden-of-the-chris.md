@@ -7,7 +7,7 @@ date = 2010-05-31T08:43:13.000Z
 
 Sunday we all attended the now semi-annual Uncle Eddie breakfast at Lucille's. It was delicious and fun. Then Chris, Michale, and I went up to Idaho Springs for some white water rafting! We got a brief safety lecture, put on wet suits, booties, splash jackets, PFDs and helmets, and then headed downstream with five clients and one guide in our raft. We did the "intermediate" level trip and it was a lot of fun. The guide makes it a bit overly dramattic, barking out rapid fire rowing instructions that seem not entirely necessary, but it was a really fun outing and not exhorbitantly priced. We went over rapids, got splashed a bunch, huddled down in the center of the raft going over falls, and Michale even got to drag one of our dim-witted companions from another group back into the raft when he tumbled out!
 
-![Rafting on Clear Creek](/photos/spring_2010/043_rafting.jpg)
+![Rafting on Clear Creek](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/043_rafting.jpg)
 
 Afterward we hooked back up with Tina and walked into downtown Louisville to dine at the [Empire Lounge](http://www.theempirerestaurant.com/).
 
@@ -15,7 +15,7 @@ Monday morning Chris, Tina, and I drove down to Colorado Springs for a visit. We
 
 We ate at [Adam's Mountain Cafe](http://www.adamsmountain.com/) and checked out the big arcade next door full of old arcade games. Then we went to the [Garden of the Gods](http://en.wikipedia.org/wiki/Garden_of_the_Gods) park. That was really nice. The weather was gorgeous and we frollicked around looking at the amazing rock formations. We had dinner in Colorado Springs that night with some yummy guacamole prepared table side.
 
-![Garden of the Gods](/photos/spring_2010/122_garden_of_the_gods.jpg)
+![Garden of the Gods](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/122_garden_of_the_gods.jpg)
 
 After we checked into our motel, I had to go scouting for suitable wifi access somewhere as I was planning to work remotely while Chris and Tina went sight seeing on Tuesday. I tried the Manitou Springs library. They had working wifi and a sort of OK table for me to sit at, but my VPN software was blocked by their firewall. Grr. On to the second library. This one was closed for RFID conversion. Grr. Third library was OK though. Ended up at the Sand Creek branch and they had free wifi with decent speed and even though the used the same service provider as the Manitou Springs library, for some reason my VPN worked OK. This whole search took two hours, which is pretty typical. I missed my amazing home office.
 
@@ -23,7 +23,7 @@ So I worked from there Tuesday while Tina and Chris went to the [Cave of the Win
 
 I was working the rest of the week, so they borrowed my car and did a few local attractions: the Denver Zoo, the Botanical Gardens, the Celestial Seasons factory tour, and the Silver Plume steam train. Thursday Tina cooked us some delicious apricot-and-mint-glazed lamb skewers, and Friday I did some rotisserie chicken.
 
-![lamb skewers](/photos/spring_2010/130_lamb.jpg)
+![lamb skewers](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/130_lamb.jpg)
 
 [The rest of the photos from Chris and Tina's visit are here](/app/photos?gallery=spring_2010&photo=041_rafting).
 
@@ -31,9 +31,9 @@ I took them to the airport stoopid early Saturday and then met up with Michale f
 
 Today we ended up having a big yummy pancakes and bacon breakfast and then again spending most of the day at the Boulder Creek Festival. It was nice and sunny and warm today and we walked and walked and walked all over the place, laughing and eating and chit chatting.
 
-![Michale at the creek](/photos/summer_2010/008_mk_creek.jpg)  
+![Michale at the creek](https://peterlyons-org.s3.amazonaws.com/photos/summer_2010/008_mk_creek.jpg)  
 
-![Rope swing launch into creek](/photos/summer_2010/010_rope_swing.jpg)
+![Rope swing launch into creek](https://peterlyons-org.s3.amazonaws.com/photos/summer_2010/010_rope_swing.jpg)
 
 (In case you missed it, there's a dude on a rope swing in that photo)
 

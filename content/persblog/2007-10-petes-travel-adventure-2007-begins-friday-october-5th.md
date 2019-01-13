@@ -17,4 +17,4 @@ Now normally I avoid crowded, smoky night clubs, but this trip was actually a lo
 
 The club itself was packed with beautiful Romanian women, full of cigarette smoke, and decked out with lasers, smoke machines, paid dancers on the bar, etc. I drank about 1/4 of a beer, to avoid adding soda to a fairly long list of things that made me stand out in a bad way.  Brandon took a hilarious photo of Jeremy ogling the dancer nearest our group.
 
-![Romania Club](/photos/romania_2007/001_jfo_obsession.jpg)
+![Romania Club](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/001_jfo_obsession.jpg)

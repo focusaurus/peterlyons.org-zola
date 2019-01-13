@@ -19,13 +19,13 @@ Sunday I skiied the world famous Steamboat Springs.  The first few runs the lig
 
 I stopped for lunch at a small mid-mountain hut that was standing room only so I had to eat outside.  By this time the wind had picked up considerably and the cloud cover was returning.  This was almost enough to get me bummed out, but I decided to go check out the back side of the mountain where they have some bowls and more open skiing.  The skiing on the back side was really great and very new for me.  I even took off my skis and hiked up to one of the double black diamond runs.  The first bit was very steep but had the deepest powder I have skied in, so you don't have to worry about falling because it's two feet of fluffy snow the whole slope.  So I made my way down that and into the next section which was denser trees, which I navigated a bit cautiously since I don't ski with a helmet (although I think next year I might start).  Once I got down through those trees it dumps you out into a vast flat clearing.  This was just spectacular.  It really gave me a sense of how beautiful the snow-covered trees are and the fact that I had to hike a ways then ski down a double black diamond to get to it made me feel priveleged to be there.  There are some photos and a video linked below.
 
-![Steamboat Springs](/photos/boulder_2007/055_steamboat.jpg)
+![Steamboat Springs](https://peterlyons-org.s3.amazonaws.com/photos/boulder_2007/055_steamboat.jpg)
 
 (This one is for Jamie)
 
-![For Jamie](/photos/boulder_2007/056_steamboat_shadow.jpg)
+![For Jamie](https://peterlyons-org.s3.amazonaws.com/photos/boulder_2007/056_steamboat_shadow.jpg)
 
-![](/photos/boulder_2007/062_steamboat.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/boulder_2007/062_steamboat.jpg)
 
 I ended up skiing until past 3:30, which is somewhat unusual, before taking the shuttle back to free parking and getting ready to head home.  I thought because I was taking a different route back to Boulder I might get to a respectable highway sooner, but no such luck.  The drive back ended up being even more treacherous than the drive there - partly because this time there was more traffic building up behind me in my slow moving Sentra.  I had to pull over about four or five times to let faster traffic pass on the steep, curvy, mountain roads in total darkness.  After over three hours of bare knuckle driving I was relieved to finally get onto I-70 and drive 25 mph in traffic toward Denver.  I forget which road I was getting on to, but toward the end getting onto 93 north or maybe route 6 as I made the left hand turn onto the road from the off-ramp of the previous road, again thanks to the zero-contrast road painting plus fatigue, I very briefly drove the wrong direction on a divided highway.  It only took me a few yards to realize my mistake, and thankfully there were no cars in sight in either direction (initially), but let me tell you, that realization gets your heart rate going.  Thankfully, I was able to make a quick U turn and get back on the correct side going the correct direction with only one car passing me in the other lane head on.
 

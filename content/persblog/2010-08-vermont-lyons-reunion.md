@@ -5,7 +5,7 @@ date = 2010-08-07T07:29:33.000Z
 +++
 I went out to Vermont for a little Lyons family reunion. The Ireland contingent was there which was a special treat. We had nice weather and lots of great meals. It was a pretty chill schedule. I did a small hike with Deed and Dad and we poked around the Bookstock festival in town and played some mini golf. We also drove into New Hampshire for a reunion of my father's cousins at Joyce and George's great lake house. My 92-year-old Great Uncle Chick was there and it's always fun to see him. Matt and I did some kayaking around the lake and Joyce took folks out on her pontoon boat. Sadly the second group got stuck with engine trouble in the pontoon boat and had to be towed back to the dock. After they were gone far too long, Joan went out in a kayak in search of them. Joyce also took us out to the barn to see her two horses Spirit and Bo, and Caoimhe road a horse for the first time ever.
 
-![On Joyce's Lake](/photos/vermont_august_2010/12_NH_lake.jpg)
+![On Joyce's Lake](https://peterlyons-org.s3.amazonaws.com/photos/vermont_august_2010/12_NH_lake.jpg)
 
 [Photos from the Vermont Lyons reunion are here](/app/photos?gallery=vermont_august_2010)
 

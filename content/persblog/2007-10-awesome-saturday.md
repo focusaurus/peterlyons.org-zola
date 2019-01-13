@@ -7,9 +7,9 @@ Saturday I went with Horatiu to the Transilvania Expo, a clothing market that th
 
 After the market we had some [Mititei](http://en.wikipedia.org/wiki/Mititei) (Romanian grilled sausages), which were quite tasty.
 
-![Horatiu at the expo](/photos/romania_2007/221_expo.jpg)
+![Horatiu at the expo](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/221_expo.jpg)
 
-![Me eating Mititei](/photos/romania_2007/223_expo.jpg)
+![Me eating Mititei](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/223_expo.jpg)
 
 Next stop was a cell phone store.  I needed to get a cell phone in case work needed to reach me for some customer support issues over the weekend, so we stopped at a nearby store and got me all set up.
 
@@ -17,21 +17,21 @@ Then we took a road trip to Turda, about 30 kilometers away.  Horatiu demonstra
 
 This place was really cool. First you walk about 300 meters down a gradually sloped tunnel into the mine.  If they didn't mark the distances from the entrance on the wall and someone turned you around in there, it'd be tricky to tell just by looking which was was out.  This leads to a series of larger square tunnels.  The tunnels have the feel of early first person shooter 3D video games because they are so geometrically simple and long.
 
-![Maria Tereza Salt Mine](/photos/romania_2007/250_maria_tereza_salt_mine.jpg)
+![Maria Tereza Salt Mine](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/250_maria_tereza_salt_mine.jpg)
 
 First we entered a large echo chamber.  Man, how I'd love to go back with my sax.  We then proceeded into a room with a large wooden crank that was turned by a team of horses to power some of the mining equipment.  This is straight out of Indiana Jones stuff.
 
 Then you climb about 8 or 9 stories of very steep wooden steps down into the main mine chamber.  This place is enormous and full of fascinating patterns on the walls and in the salt stalactites.  The local people believe the air in the mine to be theraputic, so there was an old women sitting there with her knitting and a couple playing badminton.
 
-![main mine chamber](/photos/romania_2007/252_maria_tereza_salt_mine.jpg)
+![main mine chamber](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/252_maria_tereza_salt_mine.jpg)
 
-![salt drippings](/photos/romania_2007/259_maria_tereza_salt_mine.jpg)
+![salt drippings](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/259_maria_tereza_salt_mine.jpg)
 
 After the mine we headed to the big gorge in Turda, which is really fun to hike around and visually stunning.
 
-![Gorge in Turda](/photos/romania_2007/270_turda_gorge.jpg)
+![Gorge in Turda](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/270_turda_gorge.jpg)
 
-![Gorge in Turda](/photos/romania_2007/279_turda_gorge.jpg)
+![Gorge in Turda](https://peterlyons-org.s3.amazonaws.com/photos/romania_2007/279_turda_gorge.jpg)
 
 Now, this extended outing wasn't exactly well planned. Had I known we were going to be hiking so far and so long, I would have brought some snacks and water.  But this was very spur of the moment.  So after two hours or so of hiking up the gorge, sometimes needing to hold onto a steel cable hung from the rock face at narrow spots where the rocks were slippery, we needed some food.
 

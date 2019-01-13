@@ -25,7 +25,7 @@ towels over the windows. Later on we took Sunny to see Indiana Jones
 and the Kingdom of the Crystal Skull at the San Marco theater - which  
 serves snacks and beers.
 
-![](/photos/jacksonville_2008/002_rainy_beach.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/jacksonville_2008/002_rainy_beach.jpg)
 
 Monday Marc had to leave for a road trip for work. I was working from  
 home and Sunny and Casey were out and about in the morning. They came  
@@ -57,9 +57,9 @@ Back at the hotel, again more gushing over the luxurious
 accommodations, including Casey's exclamation "The bed doesn't have any  
 sand in it!".
 
-![](/photos/jacksonville_2008/046_hotel.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/jacksonville_2008/046_hotel.jpg)
 
-![](/photos/jacksonville_2008/043_hotel.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/jacksonville_2008/043_hotel.jpg)
 
 The next morning Casey put on her fancy interview suit to go in to the  
 city and get the power straightened out. Sunny pleaded for a quick  
@@ -80,11 +80,11 @@ Wednesday was a more mellow day at home with a nice dinner followed by
 crowding onto the bed where the TV with HBO is to watch Hairspray,  
 which Sunny loves. Then we played some dominoes.
 
-![](/photos/jacksonville_2008/017_matthew_the_kitten.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/jacksonville_2008/017_matthew_the_kitten.jpg)
 
 Thursday Marc and I took off work to try the beach again. We had much better weather.
 
-![](/photos/jacksonville_2008/053_beach_sunny.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/jacksonville_2008/053_beach_sunny.jpg)
 
 Saturday we piled all four of us into Marc's mini cooper and drove up to Savannah. This saved me from a bus ride, which was great. We met up with my folks for Bar-B-Que at Wall's - a small joint in a tiny alley. Then we left the Skareckis to explore Savannah while we hit the road for Hilton Head Island. Sadly it started to rain immediately, which I'm sure put a damper on the Savannah sight seeing.
 

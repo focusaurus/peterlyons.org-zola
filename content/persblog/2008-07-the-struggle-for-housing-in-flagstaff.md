@@ -7,4 +7,4 @@ After a long day of flying from South Carolina back to Los Angeles, on Saturday 
 
 However, eventually I did find a great house that will be for rent while the owners go bicycling from San Francisco to Philadelphia in July and August. They aren't leaving until July 18 though, so I'm going to hole up in the fantastic Quality Inn with the sign reading "No train noise. Martians welcome" until Sunday, then move in with my landlords from July 6-18, then they leave for their trip. So the plan is for me to be here through the end of August. With so many fantastic national parks in the area, I think I'll have plenty of outdoor weekend activities to keep me interested.
 
-![](/photos/flagstaff_2008_part_1/016_flagstaff_arrival.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/flagstaff_2008_part_1/016_flagstaff_arrival.jpg)

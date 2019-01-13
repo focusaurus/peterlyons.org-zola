@@ -7,6 +7,6 @@ In the middle of the night, I headed out to Golden Gate Canyon with a bunch of f
 
 We scrambled back down and had some yummy breakfast at the trail head of eggs, potatoes, peppers, and salsa along with tea, OJ, etc. It was about 37 degrees there and there was still patches of snow here and there on the mountain.
 
-![Tremont Mountain](/photos/spring_2009/052_tremont_sunrise_hike.jpg)
+![Tremont Mountain](https://peterlyons-org.s3.amazonaws.com/photos/spring_2009/052_tremont_sunrise_hike.jpg)
 
 [More photos here.](http://www.peterlyons.com/app/photos?gallery=spring_2009&photo=050_tremont_sunrise_hike_tree)

@@ -11,4 +11,4 @@ Work was also very busy since we entered code freeze (basically done as far as e
 
 Also, we moved! We are in a great temporary apartment right in downtown Boulder close to everything. I've been walking and biking around for the past few days and really liking it. Friday we hit the Boulder Cafe followed by the B-Side Lounge for a bit of dancing. Saturday morning I had a yummy breakfast at a great Creole breakfast/lunch restaurant in Boulder called [Lucile's Creole Cafe](http://www.luciles.com/). Last night it was Chinese food and bowling in Broomfield (Andrew rolled an admirable 147\. I was terrible) then we hit [Johnny's Cigar Bar](http://www.johnnyscigars.com/) to hear a nice band playing Brazilian jazz music. Today it's brunch with [weiskind](http://weiskind.livejournal.com/) and later more rock climbing.
 
-![Uncle Eddie at Lucile's](/photos/spring_2009/001_eddie_luciles.jpg)
+![Uncle Eddie at Lucile's](https://peterlyons-org.s3.amazonaws.com/photos/spring_2009/001_eddie_luciles.jpg)

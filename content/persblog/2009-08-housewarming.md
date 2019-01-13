@@ -5,6 +5,6 @@ date = 2009-08-23T03:58:35.000Z
 +++
 My parents are in town for their first visit. We ate at the Old Louisville Inn on Thursday and did some shopping for miscellaneous things I didn't have yet that Mom considers essential. This whole week was pretty busy at work and I had some handymen working on the sprinkler and a bunch of other projects, so it was a bit hectic. By the time I got done working Friday my folks had already cooked most of the food for the BBQ. I had some friends and family over for a housewarming BBQ Friday night, which was a lot of fun. We had perfect weather for relaxing on the deck and eating outdoors.
 
-![BBQ](/photos/summer_2009/110_bbq.jpg)
+![BBQ](https://peterlyons-org.s3.amazonaws.com/photos/summer_2009/110_bbq.jpg)
 
 Today we did more shopping like crazy and got some other great stuff. Mom helped me pick out interior paint colors and curtains to match. We had yummy sandwiches for lunch at [Dish Gourmet](http://www.dishgourmet.com/) in Boulder. Tonight we're off to Bill's for dinner.

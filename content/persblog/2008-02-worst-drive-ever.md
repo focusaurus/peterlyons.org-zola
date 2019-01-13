@@ -11,15 +11,15 @@ Once I got into Utah, the drive was nice.  I made a pit stop in Green River, di
 
 The next section of drive was fantastic though. Straight roads, 75 mph, and beautiful rock formations and canyons all around.  Since by now I had realized my initial plan of going to Park City first then Salt Lake City were completely unfounded, and even getting to Salt Lake City was out of the question at this point, I started enjoying a few "view area" pull-offs and looking at Black Dragon Canyon and Eagle Canyon as the Sun prepared to set.  My camera wouldn't sit flat on the roof of the car, so I improvised a surface out of a ziplock bag containing the chocolate biscotti Elise hade made for me.  They make a suitable camera stand.  However, I left them on the roof and as I turned to get back on the highway, they fell down and got caught between my side view mirror and the window.  And of course, having driven about nine hours at this point, I thought the natural thought: "Oh goody, it's raining chocolate biscotti" Horray!". I made it as far as Salina, UT when it got dark so I bunked down for the night at a Rodeway Inn and caught up with Andrew on the phone.
 
-![just entering Utah](/photos/park_city_2008/009_drive_from_boulder.jpg)
+![just entering Utah](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/009_drive_from_boulder.jpg)
 
-![](/photos/park_city_2008/013_drive_from_boulder.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/013_drive_from_boulder.jpg)
 
-![](/photos/park_city_2008/017_drive_from_boulder.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/017_drive_from_boulder.jpg)
 
-![](/photos/park_city_2008/019_drive_from_boulder.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/019_drive_from_boulder.jpg)
 
-![](/photos/park_city_2008/022_drive_from_boulder.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/022_drive_from_boulder.jpg)
 
 I tried to go to sleep around 10pm, but my normal schedule is clore to 1am these days so I awoke at 2, 4, and 6 am.  By 6 am I figure the Sun would be up by the time I showed and enjoyed the make-your-own waffles and hot cocoa with a splash of coffee, so that's how I started the morning.  I discussed with the hotel manager whether I should head straight North on the state roads to I-15 or continue on the larger I-70 West, which would take me about an hour out of my way but at least it would not be mountainous.  She said the state roads were straight and flat and they should be fine.  While navigating by a pocket US Atlas has a certain elegant simplicity: each state has its own page about 2"x3", when you get down to details, it can leave things up to the imagination.  Therefore, I thought the entry to Route 89 North would be just a few miles down I-70 West.  However, in fact I-70 West at this section is the same thing as 89 south, but it's a divided highway with very sparse exits, so I ended up wasting thirty minutes round trip to make and correct my error right off the bat.  Of course, later I realized that the little side road off the highway where my hotel was WAS Route 89 and I could have just turned left out the driveway and been on my way.  It was a bad start, and things just got worst.
 

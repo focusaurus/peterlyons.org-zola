@@ -9,6 +9,6 @@ So Janet played mostly instrumental on a "prepared" acoustic guitar. "Prepared" 
 
 The space is a small 60-seat theater in a recording studio, so it was very intimate and the sound was terrific. This reminded me of when I got to hear [Charlie Hunter](http://www.charliehunter.com/) upstairs at Mo Pitkins in NYC. The audience was quiet and attentive with the one exception of one very young girl who was there at the beginning for a few songs before her parents' delusions about this being an appropriate place for a five-year-old finally wore off and they carried her out.
 
-![Erin McKeown and Janet Feder at Immersive Studios](/photos/summer_2010/034_duet.jpg)
+![Erin McKeown and Janet Feder at Immersive Studios](https://peterlyons-org.s3.amazonaws.com/photos/summer_2010/034_duet.jpg)
 
 In other news I went code complete on a major release as well as a subsequent patch release this week so there's a good ten months of work or so that is done and done. Now it's on to the next big project full steam ahead as always. Got some fun plans for the weekend as well. I was glad to be back to climbing and exercising this week as well after lounging around eating Oreos on vacation last week. Chris Wall turned it up on notch on his Group Fitness 2 class on Tuesday and made us do 12 sets of each exercise instead of the usual 9\. I'm still a bit sore in the thighs and shoulders from that. I also did some lead climbing on Wednesday and tried out my new rope. Just need to wait for my backordered carabiners and I'll be fully equiped for outdoor sport climbing.

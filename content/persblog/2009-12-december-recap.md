@@ -11,6 +11,6 @@ I had a bunch of fun dates with Michale this month including a big breakfast I c
 
 All the stuff I shipped out here did make it out although it was an adventure getting it at the post office. I had to make three trips and wheel out a giant cart to my car to get it all. Much of it was pretty banged up but it all made it out here. I set Maggie to work on the big project of assembling somewhere on the order of 700 CDs where the discs, linear notes, and jewel cases were all separate. She and her husband worked on it for about fifteen hours. She's researching some shelving options and I am very much looking forward to having full access to all my CDs once again.
 
-![The CD Project](/photos/winter_2009/021_cd_project.jpg)
+![The CD Project](https://peterlyons-org.s3.amazonaws.com/photos/winter_2009/021_cd_project.jpg)
 
 Almost all of the Christmas shopping is done now and I fly out to NJ Wednesday for a brief visit, then back here on Saturday and on the slopes Sunday.

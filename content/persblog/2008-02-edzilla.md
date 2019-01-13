@@ -13,22 +13,22 @@ On the way back to the highway we had a little trouble finding an on-ramp and ha
 
 Saturday we made the hour trek to [Alta](http://www.alta.com) and had a nice day of skiing there.  I particularly enjoyed the Catherine Bowl we skied at the end of the day.  Saturday night we headed to the University of Utah for a home town performance by [The 5 Browns](http://www.the5browns.com/).  They are five sibling piano virtuosos and their "hook" or gimmick is that they play all together on five grand pianos on stage.  They also play solos, duos, and trios to fill out the program.  I wasn't sure exactly what to expect, but I found the concert very enjoyable.  The program was chock full of works by late romantic Russian composers, and you just can't go wrong there.  Each of them is truly a virtuoso and they each played impressively.  The only shortcomings were the program was almost entirely sure-fire crowd pleasers, with the only somewhat risky selection being a Scriabin piece.  So Kudos to Melody Brown for playing something ever so slightly adventurous, although she did find it necessary to caution the audience before beginning.  Also, the works were all extremely short single movements, which leaves ones attention yearning some more expansive development.  Ed revealed his woeful lack of familiarity with the early works of Stravinsky, which we promptly corrected on the subsequent road trips.
 
-![The Catherine Bowl at Alta](/photos/park_city_2008/066_alta_catherine_bowl.jpg)
+![The Catherine Bowl at Alta](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/066_alta_catherine_bowl.jpg)
 
 I felt some guilt at having made nocturnal Ed wake up early on Saturday so on Sunday we slept later, had some eggs, and then headed out toward Deer Valley.  However, Deer Valley was sold out of lift tickets and turning people away, and Park City had resorted to auxiliary parking lots at a nearby school, so [The Canyons](http://thecanyons.com/) ended up being our only available mountain.  the skiing was good though and The Canyons is so large that the crowds at the base area are easy to get away from.  Sunday night we made the first visit to Main Street Park City and had a nice meal.
 
-![](/photos/park_city_2008/070_ed_breakfast.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/070_ed_breakfast.jpg)
 
-![](/photos/park_city_2008/080_dinner_park_city.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/080_dinner_park_city.jpg)
 
 Monday we skied [Deer Valley](http://www.deervalley.com/), which was completely overrun by ski-wees and their inattentive parents.  We did managed to do a few great runs in the morning on the far right lift and a few in the afternoon including the Orion Bowl, but many runs were just very crowded (by Rocky Mountain standards at least).  Monday night we went back into downtown Salt Lake City for dinner.  Then we headed to the airport.  Unfortunately, we got severely lost and way out of our way.  When we eventually realized that we were in fact no longer in Salt Lake proper, but in North Salt Lake, which has a complete decoy set of cross streets that reassure you that you are where you think you are on the map even though you are fifteen miles away.  When we finally realized our mistake Ed's flight was set to take off in about 40 minutes.  We raced (to the extent that the Green Machine is capable of racing, especially considering we're on non-light highways with invisible lane markers and construction) to the airport and managed to get Ed onto the plane, but just barely.  He had to gate check his bag since he was so close to takeoff time.
 
-![Trees at Deer Valley](/photos/park_city_2008/084_deer_valley_trees.jpg)
+![Trees at Deer Valley](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/084_deer_valley_trees.jpg)
 
 At this point I should note that the streets in Salt Lake City are named according to the distance and direction they lie from the big Mormon temple.  It is therefore completely valid and normal to say things like "The restaurant is on the North side of East 400 South".  Think about that.
 
 So that concludes the Edzilla visit and next weekend Chris is here.
 
-![](/photos/park_city_2008/092_deer_valley_lift_shadow.jpg)
+![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/092_deer_valley_lift_shadow.jpg)
 
 [More photos here.](http://peterlyons.com/app/photos?gallery=park_city_2008)

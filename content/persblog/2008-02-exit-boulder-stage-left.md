@@ -7,7 +7,7 @@ OK, tomorrow morning I load up the car once again and head out to Park City, Uta
 
 This is what all of my stuff looks like assembled on the floor ready to be loaded into the Green Machine.
 
-![My stuff](/photos/boulder_2007/80_stuff.jpg)
+![My stuff](https://peterlyons-org.s3.amazonaws.com/photos/boulder_2007/80_stuff.jpg)
 
 This last week in Boulder was good.  On Tuesday I heard CU piano faculty David Korrevar play Beethoven's C Minor Piano Sonata and the Bach Goldberg Variations.  The seating in the theater was packed and they had to set up about thirty chairs on stage to accommodate the rest of the audience.  It was a nice concert overall, and I haven't been to hear classical music in a good long while, so I really enjoyed it.  If all the logistics and weather work out tomorrow, my new landlord and I will go hear the Symphony in Salt Lake City tomorrow evening.
 
