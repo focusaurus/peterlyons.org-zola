@@ -1,7 +1,5 @@
 +++
-template = "index.html"
-title = "Peter Lyons: Cyber Lumberjack"
-path = "/"
+title = "Peter Lyons"
 +++
 This is the personal site of Peter Lyons.
 It has my infrequently-updated personal blog,

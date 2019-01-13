@@ -4,8 +4,17 @@
 <head>
   <meta charset="utf-8">
   <title>
-    {%- if page.title is defined -%}{{ page.title }}{%- endif -%}
-    {%- if section.title is defined -%}{{ section.title }}{%- endif -%} | Peter Lyons
+    {% set title = "" %}
+    {%- if page.title is defined -%}
+      {% set title = page.title %}
+    {%- endif -%}
+    {%- if section.title is defined -%}
+      {% set title = section.title %}
+    {%- endif -%}
+    {{ title }}
+    {%- if not title is containing("Peter Lyons") -%}
+     | Peter Lyons
+    {%- endif -%}
   </title>
   <meta name="description" content="Peter Lyons">
   <meta name="keywords" content="peter lyons, pete lyons, saxophone, oberlin, gora gora orkestar">
