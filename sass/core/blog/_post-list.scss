@@ -1,0 +1,41 @@
+@import "../typography";
+
+#subscribe {
+  display: block;
+}
+
+.posts {
+  margin-top: 2em;
+}
+
+.post {
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px dashed $colorPrimary;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding-bottom: 2em;
+
+  :last-child {
+    border-bottom: none;
+  }
+}
+
+.postTitle {
+  text-decoration: none;
+  font-weight: bold;
+  @include font-size(-1, 2);
+
+  &:hover {
+    text-decoration: underline;
+  }
+  @media only screen and (min-width: 600px) {
+    @include font-size(0, 2);
+  }
+}
+
+.postDate {
+  width: 100%;
+  text-align: center;
+  @include font-size(-1, 1);
+}

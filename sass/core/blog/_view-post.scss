@@ -1,0 +1,26 @@
+article {
+  img {
+    display: block;
+  }
+
+  .date {
+    width: 100%;
+    text-align: right;
+  }
+}
+
+nav.blog {
+  margin-top: 2em;
+
+  li {
+    list-style-type: none;
+    margin-top: 1em;
+  }
+}
+
+#toggleComments {
+  border: none;
+  cursor: pointer;
+  margin-top: 2em;
+  padding: 0.2em;
+}
