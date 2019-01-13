@@ -11,4 +11,4 @@ The food was great and I loved being outdoors but always in the shade of the thi
 
 I was at NodeConf Thu-Sun hacking on JavaScript with most of the node.js community around the bay area and the US and a few overseas folks. It really was a summer camp thing with four square, slack lining, kayaks, canoes, swimming, camp fires, s'mores, the whole nine yards.
 
-![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157645592308463/)
+{{ flickr(user="88096431%40N00", set="72157645592308463") }}

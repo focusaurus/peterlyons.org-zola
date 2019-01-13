@@ -57,4 +57,4 @@ Sunday was pretty much all packing up from the get-go. We got the van loaded up 
 
 Here are my photos. There are just a few. Tons more good ones on Facebook.
 
-![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157630108856288/)
+{{ flickr(user="88096431%40N00", set="72157630108856288") }}

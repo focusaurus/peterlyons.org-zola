@@ -25,4 +25,4 @@ Saturday we played in the Solstice parade, which was a lot of waiting. Afterward
 
 Monday we left in the van headed back to Boulder.
 
-![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157645234728466/)
+{{ flickr(user="88096431%40N00", set="72157645234728466") }}
