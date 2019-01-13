@@ -1,0 +1,12 @@
++++
+title = "Mountain biking: check"
+slug = "2008/07/mountain-biking-check/"
+date = 2008-07-14T06:23:00.000Z
++++
+OK, I have done my first official mountain bike ride ever. There are miles and miles of fantastic trails right near the house. It was a lot of fun even though I had no idea what I was doing. Allow me to introduce the Red Machine:
+
+![](/photos/flagstaff_2008_part_1/040_bike.jpg)
+
+And yes, that's the house I rented in the photo above.
+
+![](/photos/flagstaff_2008_part_1/041_bike_sign.jpg)
