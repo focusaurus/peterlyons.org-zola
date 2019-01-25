@@ -1,0 +1,5 @@
+[Settings]
+ID = "peterlyonsorg-zola"
+[build]
+  # Default build command.
+  command = "./container-scripts/build.sh"
