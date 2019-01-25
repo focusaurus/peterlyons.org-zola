@@ -25,6 +25,4 @@ if [[ ! "${version}" =~ ^zola ]]; then
     tar --extract --gzip --file - --directory local/bin
   chmod 755 local/bin/zola
 fi
-./local/bin/zola build
-./container-scripts/build-plus-party.sh
-cp -r node_modules/reveal.js public
+zola build
