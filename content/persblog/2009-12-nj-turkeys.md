@@ -13,7 +13,7 @@ Friday I drove with Chris and Tina up to Poughkeepsie NY to spend a day and a ha
 
 Sunday Tina made chicken saltimboca and we played a deadly-serious game of Jenga. We surpassed the 30th "Master" row and spent at least four solid rounds convinced that the tower would surely collapse on the next turn before making it all the way to row 34, 2 away from "expert".
 
-![Chris concentrating on a tough Jenga move](http://www.peterlyons.com/photos/thanksgiving_2009/052_jenga.jpg)
+![Chris concentrating on a tough Jenga move](https://peterlyons-org.s3.amazonaws.com/photos/thanksgiving_2009/052_jenga.jpg)
 
 Sunday was a driving and visiting extraveganza. I drove down to Long Valley NJ to visit with Kate, Steve, Meghan, Tim, and Pat. We hadn't seen Tim and Pat in quite some time so it was fun to catch up with them and their wives. We all played with baby Will who is a ball of energy and enjoyed the contrast with Meghan's daughter Maeve who is perpetually still and yawning on the verge of sleep. After that I drove to Cranford and met up with my high school buddy Rich at our old hang out Tony's Pizza, still going strong in Cranford. Then I drove down the shore to record an episode of ["The Jersey Shore Podcast"](http://jerseyshore.libsyn.com/index.php?post_id=555718) with Joe P and Dan P.
 

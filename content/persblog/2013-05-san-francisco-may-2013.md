@@ -5,13 +5,13 @@ date = 2013-05-24T14:58:48.860Z
 +++
 I flew in to SFO this past Sunday and made my way via mass transit to the airbnb room I had rented in Cole Valley. Before I could even set my bag down in the room, my friend Jonathon (the [airpair](http://airpair.com) founder TXTed me inviting me to lunch with a group of friends. A few minutes later a mini cooper zipped down the block, pulled and aggressive U-turn, and out popped Jonathon from the passenger seat. He was just finishing zipping his pants and buckling his belt, which he explained was due to coming straight from a 2-hour Bikram yoga class. I hopped in the back and Saharose, Jonathon's friend, whizzed us up to Twin Peaks with the sun roof open on a lovely sunny day.
 
-<a href="http://www.flickr.com/photos/88096431@N00/8733647122/" title="Twin Peaks by Peter Lyons, on Flickr"><img src="http://farm8.staticflickr.com/7290/8733647122_9298a24268.jpg" width="500" height="375" alt="Twin Peaks"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/8733647122/" title="Twin Peaks by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7290/8733647122_9298a24268.jpg" width="500" height="375" alt="Twin Peaks"></a>
 
 We stopped only for a minute to enjoy the view from Twin Peaks and then raced over to [Regalito](http://www.regalitosf.com/) to join a large group of 9 friends for a delicious gourmet Mexican feast. We ordered family style and feasted on molé, beans, guacamole, and all sorts of delights. There was lots of startup/tech banter and the group was in very high spirits as well as a pretty good range of ages and backgrounds.
 
 Afterward we headed back to Jonathon's apartment in Pacific Heights and enjoyed some tea and sunshine up on his roof. We got around to coding together a bit as well, but before long it was back into social mode as folks started arriving for a BBQ on the roof. Jonathon cooked up a bunch of delicious food and we hung out, played some corn hole, and watched the sun set behind a great view of the city.
 
-<a href="http://www.flickr.com/photos/88096431@N00/8734302926/" title="Sunset by Peter Lyons, on Flickr"><img src="http://farm8.staticflickr.com/7303/8734302926_6d25e23901.jpg" width="500" height="375" alt="Sunset"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/8734302926/" title="Sunset by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7303/8734302926_6d25e23901.jpg" width="500" height="375" alt="Sunset"></a>
 
 I had no plans in particular for Sunday other than some pair programming, and it ended up being a truly epic day of delights!
 
@@ -27,7 +27,7 @@ Tuesday afternoon I headed to the [Great American Music Hall](http://www.slimspr
 
 Tuesday's concert was the [National Venture Capital Association](http://nvca.org/)'s big shindig during their conference and was billed as a sort of "Battle of the Bands" featuring bands whose members come from the venture capital/tech/startup world. There were 3 or 4 VC bands plus Pat Monahan from Train headlining. All the bands were good. Notable was the singer from Silicon Valley Bank. We played a short set just before Pat, and got a lot of positive feedback. The catering was also good with some pork sliders and a huge chocolate station doling out chocolate truffles on a stick.
 
-<a href="http://www.flickr.com/photos/88096431@N00/8742083277/" title="Legitimate Front at Great American Music Hall by Peter Lyons, on Flickr"><img src="http://farm8.staticflickr.com/7285/8742083277_5cdd7ba97c.jpg" width="375" height="500" alt="Legitimate Front at Great American Music Hall"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/8742083277/" title="Legitimate Front at Great American Music Hall by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7285/8742083277_5cdd7ba97c.jpg" width="375" height="500" alt="Legitimate Front at Great American Music Hall"></a>
 
 Wednesday I worked from a coffee shop near the hotel in the morning, then an Internet cafe with an annoying time-limited wifi setup, and then back at the hotel with crappy wifi. Wednesday's event, also at the Great American Music Hall, was a private party thrown by [Foundry Group](http://foundrygroup.com). Legitimate Front was playing the whole night and we got an even more thorough sound check this time. My friend Pat and my cousin Ed came and we chatted a bit during the songs without horns. Afterward Pat and I got some food at nearby Mel's diner and caught up a bit. The waitress was taken aback when I ordered an English muffin, toasted with butter and cinnamon. "We don't have cinnamon", she said. Yes, you do, I replied confidently. She looked at me strangley. "It's like the #4 spice in the world. You have it", I insisted, and she relented and later served me my muffin with a little metal ketchup bowl containing about 1/4 jar of cinnamon.
 
@@ -41,7 +41,7 @@ Today (Saturday) I am mostly taking it easy and strolling around the mission. I 
 
 Saturday afternoon I took a much-needed nap and then walked around the mission quite a bit enjoying the nice weather and interesting murals. I hemmed and hawed a bit before deciding to get some Indian street food for dinner followed by [Xanath](https://plus.google.com/118326911401090794399/about?gl=us&hl=en) ice cream for dessert. I watched most of Skyfall via vdio before dozing off.
 
-<a href="http://www.flickr.com/photos/88096431@N00/8751667152/" title="Mural by Peter Lyons, on Flickr"><img src="http://farm8.staticflickr.com/7453/8751667152_395560cfed.jpg" width="500" height="375" alt="Mural"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/8751667152/" title="Mural by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7453/8751667152_395560cfed.jpg" width="500" height="375" alt="Mural"></a>
 
 Sunday morning just enough time for a quick breakfast sandwich then BART back to SFO to head home.
 

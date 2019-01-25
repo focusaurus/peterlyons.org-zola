@@ -11,7 +11,7 @@ So we met at the Powell St BART station and started out on a long venture. We he
 
 Then we wondered north along Montgomery and up some great stairs here and there, eventually hitting Coit Tower. Then down the [Filbert Steps](http://www.sisterbetty.org/stairways/filbertsteps.htm) listening to parrots squaking. We went out to the Embarcadero and walked all along Fisherman's Warf. We stopped for some seafood lunch and Tess fed some seagulls off her feet.
 
-<a href="http://www.flickr.com/photos/88096431@N00/6752556869/" title="Tess feeding birds off her feet by Peter Lyons, on Flickr"><img src="http://farm8.staticflickr.com/7157/6752556869_377c8aed66.jpg" width="500" height="375" alt="Tess feeding birds off her feet"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/6752556869/" title="Tess feeding birds off her feet by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7157/6752556869_377c8aed66.jpg" width="500" height="375" alt="Tess feeding birds off her feet"></a>
 
 Then we hit [Ghirardelli Square](http://en.wikipedia.org/wiki/Ghirardelli_Square) briefly and then walked south along Polk St all the way back past Market. We stopped in a bunch of book shops, thrift stores, and [Paxton Gate](http://www.paxtongate.com/) when we switched over to Valencia and headed through the Mission. We had tapas at [Esperpento](http://www.yelp.com/biz/esperpento-san-francisco) and rested a bit after about 5.5 hours of walkabout.
 

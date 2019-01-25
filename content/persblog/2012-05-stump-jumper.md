@@ -9,7 +9,7 @@ Today I got the Stump Jumper tires working and then took it over to Markus's, wh
 
 I had planned to spend all day at Community Cycles working on the bike, but it was done by 10:15, so I took the Peugeot road bike to the Boulder Circus Center for open workout to work on my pagoda pops and ginger drops. Afterward, Jasmine, Gala, Alex and I had lunch at Whole Foods followed by sharing a delicious pint of gelato.
 
-<a href="http://www.flickr.com/photos/88096431@N00/7184024044/" title="Untitled by Peter Lyons, on Flickr"><img src="http://farm8.staticflickr.com/7105/7184024044_03641a8f58.jpg" width="500" height="375" alt="Untitled"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/7184024044/" title="Untitled by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7105/7184024044_03641a8f58.jpg" width="500" height="375" alt="Untitled"></a>
 
 Then back on the bike to get home before the drizzles got too big. Not much time to shower and rest though before I had to drive in to Denver to catch the 2nd night of the Aerial Acrobatics Arts Festival at the Oriental Theater. There were some great performances including many of my friends from the local studios. It was very inspiring and encouraging. Jasmine was cross dressing as she does periodically and looking adorable. One of the sponsors was Boulder Ice Cream and they gave out decent-sized free ice cream at intermission, which was delightful.
 

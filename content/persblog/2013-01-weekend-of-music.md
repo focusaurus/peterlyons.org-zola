@@ -7,7 +7,7 @@ It's been a pretty great long weekend. Friday night I was planning to rehearse w
 
 Saturday The Afronauts played at Twisted Pine. I had quite a few friends come to the show including Elise and a group of her friends, two of my housemates, a group of my mountain biking buddies, and another band leader I have been networking with recently. It was a pretty fun show and ended with a big dance circle out on the dance floor shakin' it down. Sadly the brewery is subject to zoning regulations that require it to shut down at 9pm, which is odd, but on the other hand it's easier to convince people to come hear a show that starts at 7pm vs 11pm. Also, Alice did up some pretty choice liberty spikes.
 
-<a href="http://www.flickr.com/photos/88096431@N00/8397094428/" title="Untitled by Peter Lyons, on Flickr"><img src="http://farm9.staticflickr.com/8090/8397094428_41c681b1ff.jpg" width="500" height="375" alt="Untitled"></a>
+<a href="https://www.flickr.com/photos/88096431@N00/8397094428/" title="Untitled by Peter Lyons, on Flickr"><img src="https://farm9.staticflickr.com/8090/8397094428_41c681b1ff.jpg" width="500" height="375" alt="Untitled"></a>
 
 After that it was off to Shine for the Pink Mammoth dance party, which was pretty fun. I was sure tired by 1am or so.
 
