@@ -9,7 +9,7 @@ Monday I trained it down to Long Branch to visit Thorp and the Jersey shore crew
 
 ![](https://peterlyons-org.s3.amazonaws.com/photos/nj_visit_may_2008/011_memorial_day_bbg.jpg)
 
-[More NJ visit photos are here.](http://peterlyons.com/app/photos?gallery=nj_visit_may_2008)
+[More NJ visit photos are here.](/app/photos?gallery=nj_visit_may_2008)
 
 Thursday I flew back to Portland, hopped the MAX train, and met up with Bernie, who got the fun experience of driving a fully loaded green machine in all of its busted-muffler glory. Friday after work Bernie had to do some last minute housewarming party prep so I headed on bike to the Pub and Pedal. This time the Pub and Pedal was hooked up to a big parade march from the existing Voodoo Doughnut shop around town to the new Voodoo Doughnut location. There were a couple hundred goofballs assembled for this, and it was just a generally weird event. Everyone is pysched up about doughnuts, and the police in riot gear are blocking off traffic. The participants included a father/son team randomly dressed as hot dogs, a guy in a doughnut outfit, one of the owners in a shiny silver suit, and the other owner prancing around in a parasol. This one guy Trey (I think they are the owners) said this quote: "Oh, I forgot about my noise maker. I was too busy concentrating on my money maker." Local drum line [Last Regiment of Syncopated Drummers](http://www.lastregiment.com) provided the beats for the parade, and the local roller derby team skated up and down the paraders with balloons.
 

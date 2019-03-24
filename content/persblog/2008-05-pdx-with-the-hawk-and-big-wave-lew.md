@@ -39,4 +39,4 @@ Sunday we met Wyatt for vegan brunch.  I was defeated by a stack of three corn 
 
 Then I wanted to make sure my drive back to Bend was mostly in daylight, so we biked back to Bernie's and I hit the road.  I'm looking forward to another visit at the end of the month.
 
-Rest of the [photos are here](http://www.peterlyons.com/app/photos?gallery=portland_2008_part_1).
+Rest of the [photos are here](/app/photos?gallery=portland_2008_part_1).

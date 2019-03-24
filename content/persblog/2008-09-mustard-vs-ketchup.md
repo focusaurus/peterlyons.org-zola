@@ -71,4 +71,4 @@ Sunday morning before dawn I started packing up to head out. I made it to Park C
 
 I'm now here in Golden way way up in the mountains at 9,000 ft. It's a good 25 minutes drive to get down off the mountain and 45 minutes into downtown Boulder. The house is fantastic though. More description and photos later this week.
 
-The rest of the Burning Man photos, which I think in general came out really well, are [here](http://peterlyons.com/app/photos?gallery=burning_man_2008).
+The rest of the Burning Man photos, which I think in general came out really well, are [here](/app/photos?gallery=burning_man_2008).

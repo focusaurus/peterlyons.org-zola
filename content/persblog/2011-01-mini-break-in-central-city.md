@@ -15,4 +15,4 @@ After breakfast at another diner in town, we went up to Frisco, walked around to
 
 After sledding we went up to Breckenridge and again walked around town looking in stores and snacking on cup cakes and hot dogs. Then we headed back for the big casino buffet dinner featuring crab legs, top sirloin, clam chowder, and ice cream sundaes. Michale played the slots for a while, winning $14, and we snuggled up in our hotel room with some Dog the Bounty Hunter.
 
-There are some [pictures from the trip](http://www.peterlyons.com/app/photos?gallery=winter_2010&photo=020_opera_house) up.
+There are some [pictures from the trip](/app/photos?gallery=winter_2010&photo=020_opera_house) up.

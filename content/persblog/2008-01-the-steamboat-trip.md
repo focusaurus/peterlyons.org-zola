@@ -31,4 +31,4 @@ I ended up skiing until past 3:30, which is somewhat unusual, before taking the 
 
 I was surely relieved to arrive back home in Boulder and scratch my puddy tats. Note to self: no driving in the mountains at night.
 
-More photos [here](http://www.peterlyons.com/app/photos?gallery=boulder_2007)
+More photos [here](/app/photos?gallery=boulder_2007)
