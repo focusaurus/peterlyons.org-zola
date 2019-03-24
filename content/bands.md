@@ -8,7 +8,7 @@ Gora Gora Orkestar is a large brass band playing a variety of styles from around
 
 <div class="clear"></div>
 
-- [GoraGora.org](http://goragora.org)
+- [GoraGora.org](https://goragora.org)
 - [facebook.com/GoraGoraOrkestar](https://www.facebook.com/GoraGoraOrkestar)
 - [reverbnation.com/GoraGoraOrkestar](http://www.reverbnation.com/goragoraorkestar)
 - 2013 - present
