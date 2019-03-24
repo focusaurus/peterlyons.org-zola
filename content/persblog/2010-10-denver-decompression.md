@@ -7,4 +7,4 @@ Last night Michale and I had fun getting dressed up and going dancing at the Den
 
 ![Costumes for Denver Decompression](https://peterlyons-org.s3.amazonaws.com/photos/fall_2010/044_decompression.jpg)
 
-[More Decompression photos are here](/app/photos?gallery=fall_2010&photo=041_decompression).
+{{ album(dirname="fall_2010", id="72157688959300833", text="More Decompression photos are here") }}.

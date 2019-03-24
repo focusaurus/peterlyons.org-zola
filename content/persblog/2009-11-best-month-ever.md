@@ -21,7 +21,7 @@ Halloween was a big deal this year. Jennifer and I researched some awesome costu
 
 The costumes, when all put together worked great. Next time we'll opt for a higher end white face paint since the cheap stuff doesn't look properly opaque and smooth. We went to a party in Denver where we were mistaken for Charlie Chaplin, Marcel Marceau or generic mimes. Although I think two people knew of the band when we told them. We gave out little candies with the description so people could google it later if they liked. **More {{ album(dirname="halloween_2009", id="72157688960596983", text="Halloween photos are here") }}**.
 
-[!Coin Operated Boy](https://peterlyons-org.s3.amazonaws.com/photos/halloween_2009/002_coin_operated_boy.jpg)
+![Coin Operated Boy](https://peterlyons-org.s3.amazonaws.com/photos/halloween_2009/002_coin_operated_boy.jpg)
 
 I also had some fun home improvements this month. I hung a Metolius Slim Gym rock climbing exercise board over the door frame in my office. I've been enjoying working on pull-ups while gripping the slopers instead of a nice bar. I hoping to get some other cool equipment hung in my basement similar to what they have at The Spot. I hung the great big saxophone painting that my parents bought for me and kept in their house until I got my own place. You can see it behind the {{ album(dirname="halloween_2009", id="72157688960596983", text="Halloweeen photos") }}.
 

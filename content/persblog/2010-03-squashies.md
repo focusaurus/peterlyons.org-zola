@@ -25,4 +25,4 @@ The Skareckis went over to lift nine and left me on the beginner run to try to g
 
 We got up early Wednesday morning and went straight to the airport. It was a really fun trip and some great skiing!
 
-The rest of the [photos are here](/app/photos?gallery=winter_2009&photo=091_skarecki_dinner).
+The rest of the{{ album(dirname="winter_2009", id="72157677938375728", text="photos are here") }}.

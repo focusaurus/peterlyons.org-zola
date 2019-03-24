@@ -9,4 +9,4 @@ Then we went to the Boulder Farmer's market and for a walk and picnic up Boulder
 
 Oh yeah, and last night we went to a friend's house for game night featuring Outburst from 1988 and Egyptian Rat Screw. And Michale made me a hat!
 
-[!My new hat](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/009_hat.jpg)
+![My new hat](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/009_hat.jpg)

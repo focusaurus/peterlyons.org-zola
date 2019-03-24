@@ -25,7 +25,7 @@ I was working the rest of the week, so they borrowed my car and did a few local 
 
 ![lamb skewers](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/130_lamb.jpg)
 
-[The rest of the photos from Chris and Tina's visit are here](/app/photos?gallery=spring_2010&photo=041_rafting).
+{{ album(dirname="spring_2010", id="72157702638009812", text="The rest of the photos from Chris and Tina's visit are here") }}.
 
 I took them to the airport stoopid early Saturday and then met up with Michale for the [Boulder Creek Festival](http://www.bceproductions.com/boulder-creek-festival/). It's really fun. We love watching the little kids in the giant rubber band kid launchers (they had 2 or 3 of them spread around). On Saturday I got two compliments on my trusty "plain text" white T-shirt. Then a big rainstorm hit just as we came upon Lewis and Nancy by chance. So we hunkered down under the library overpass waiting out the worst of the rain. It did last a good long while despite Lewis's frequent mentions that it would pass in half an hour.
 
