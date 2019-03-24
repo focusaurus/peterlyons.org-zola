@@ -7,4 +7,4 @@ Next stop was a week long family reunion vacation on lovely [Hilton Head Island,
 
 ![](https://peterlyons-org.s3.amazonaws.com/photos/hilton_head_2008/043_hilton_head_tennis.jpg)
 
-[Vacation photos are here.](/app/photos?gallery=hilton_head_2008)
+{{ album(dirname="hilton_head_2008", id="72157706023409284", text="Vacation photos are here.") }}

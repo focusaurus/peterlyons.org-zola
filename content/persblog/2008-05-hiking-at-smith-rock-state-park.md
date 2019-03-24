@@ -3,7 +3,7 @@ title = "Hiking at Smith Rock State Park"
 slug = "2008/05/hiking-at-smith-rock-state-park/"
 date = 2008-05-12T00:38:00.000Z
 +++
-Yesterday I drove 20 miles north from Bend to Smith Rock, the birthplace of modern American sport climbing. The rock formations and views are stunning. I saw some cool rock climbing going on as well. I'll post a few pictures here. Lots more (I filled up my camera) [on my web site](/app/photos?gallery=bend_2008_part_2).
+Yesterday I drove 20 miles north from Bend to Smith Rock, the birthplace of modern American sport climbing. The rock formations and views are stunning. I saw some cool rock climbing going on as well. I'll post a few pictures here. Lots more (I filled up my camera) {{ album(dirname="bend_2008_part_2", id="72157702638665112", text="on my web site") }}.
 
 ![](https://peterlyons-org.s3.amazonaws.com/photos/bend_2008_part_2/011_smith_rock_pl.jpg)
 

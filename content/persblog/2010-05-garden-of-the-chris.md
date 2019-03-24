@@ -37,6 +37,6 @@ Today we ended up having a big yummy pancakes and bacon breakfast and then again
 
 (In case you missed it, there's a dude on a rope swing in that photo)
 
-The [rest of the Boulder Creek Festival photos are here](/app/photos?gallery=summer_2010).
+The {{ album(dirname="summer_2010", id="72157675783756307", text="rest of the Boulder Creek Festival photos are here") }}.
 
 As a side note we've been watching season 3 of The Office on netflix instant. They've really hit their stride now and the episodes are hysterical.

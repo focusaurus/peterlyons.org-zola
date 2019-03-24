@@ -13,4 +13,4 @@ OK, it is promising to be a very fun and productive week out here. A few reunion
 
 ![Rebecca, Pete, and Marcia in San Francisco](https://peterlyons-org.s3.amazonaws.com/photos/san_francisco_aug_2009/040_rr_pl_mb.jpg)
 
-[More photos are here](/app/photos?gallery=san_francisco_aug_2009).
+{{ album(dirname="san_francisco_aug_2009", id="72157677938499468", text="More photos are here") }}.

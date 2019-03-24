@@ -21,4 +21,4 @@ The party was a lot of fun and Michale fit in with that crowd swimmingly, as I k
 
 I commuted to work with my boss Monday morning and then back in the evening. I met up with Rebecca and Brian for rock climbing at Mission Cliffs a bit. It's always fun to visit new climbing gyms. Then it was back to the hotel for early sleep. Tuesday morning Michale and I headed into the BART just as it was opening at 4am only to realize the first train to SFO wasn't until nearly 5am, which was too late for our flight. So we had to fall back and take a cab to the airport.
 
-[Photos from the trip are here](/app/photos?gallery=san_francisco_april_2010).
+{{ album(dirname="san_francisco_april_2010", id="72157706022741284", text="Photos from the trip are here") }}.

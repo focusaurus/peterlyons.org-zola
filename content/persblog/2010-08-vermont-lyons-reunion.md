@@ -7,7 +7,7 @@ I went out to Vermont for a little Lyons family reunion. The Ireland contingent 
 
 ![On Joyce's Lake](https://peterlyons-org.s3.amazonaws.com/photos/vermont_august_2010/12_NH_lake.jpg)
 
-[Photos from the Vermont Lyons reunion are here](/app/photos?gallery=vermont_august_2010)
+{{ album(dirname="vermont_august_2010", id="72157675783724167", text="Photos from the Vermont Lyons reunion are here") }}
 
 The travel back was a bit of a pain. I took a small 10-seater Cessna from Lebanon, New Hampshire to Boston, but then US Airways cancelled my Boston to Washington leg. I got rerouted on an AirTrain flight to Denver but it didn't leave until about six hours later. So door to door it took me 16 hours to get home. Thankfully Google provides free wifi in Boston Logan so I was able to get some work done on a side project while I was there.
 

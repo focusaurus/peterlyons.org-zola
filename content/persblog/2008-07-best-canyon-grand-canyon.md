@@ -25,4 +25,4 @@ Another amazing thing about Flagstaff is the [Flagstaff Urban Trail System (FUTS
 
 I've got at least two new sax pieces from my recent shopping that are good and a few books of nice etudes, so there's been some good variety in my practicing lately. I've also been able to play up to about ninety minutes before my chops give out, which is a big improvement. Now as long as I keep up a steady practice schedule, I don't have to have nightmares about having to stop a performance saying "I'd love to play you the final two movements of this piece, but I can't play that long".
 
-If you are so inclined, [check out the rest of the Grand Canyon photos](/app/photos?gallery=flagstaff_2008_part_1)
+If you are so inclined, {{ album(dirname="flagstaff_2008_part_1", id="72157706023360424", text="check out the rest of the Grand Canyon photos") }}

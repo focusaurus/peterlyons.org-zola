@@ -7,4 +7,4 @@ Sunday I went rock climbing outdoors for the first time ever! On a real mountain
 
 ![The Plotinus Wall](https://peterlyons-org.s3.amazonaws.com/photos/winter_2008/093_climb_plotinus_wall.jpg)
 
-A few [more photos at the end of this gallery](/app/photos?gallery=winter_2008)
+A few {{ album(dirname="winter_2008", id="72157675784181537", text="more photos at the end of this gallery") }}

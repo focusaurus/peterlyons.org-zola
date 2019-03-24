@@ -12,4 +12,4 @@ Thursday we spent pretty much all day exploring the various districts in downtow
 
 Today we ate some Vietnamese back in Chinatown (ish) before driving up to [Cypress Provincial Park](http://www.cypresspark.bc.ca/), intending to go for a hike. However, after some napping and then driving further into the park our elevation put us above the snow line so hiking was not so good. We considered doing the [Capilano Suspension Bridge](http://www.capbridge.com), when we thought it was just a bridge, but it turned out to be an expensive theme park experience, so we bagged it. Instead, we walked the Varley Trail in Lynn Canyon Park a bit before another drive into the city, eventually settling on [Subeez](http://www.subeez.com/), which was pretty good, not amazing.
 
-The rest of the photos are [here](/app/photos?gallery=vancouver_2009).
+The rest of the photos are {{ album(dirname="vancouver_2009", id="72157706023157164", text="here") }}.

@@ -41,4 +41,4 @@ Sunday we did the final tear down and packing of the camp, and when Kori got bac
 
 Overall the burn was even better than last year. First, I was better prepared and knew what to expect, so I spent less time in shock and awe. Mostly it was how great Astral Headwash is and the great gift we gave to the community. I'd love to camp with them again next year if they'll have me back!
 
-[The rest of the photos are here](/app/photos?gallery=burning_man_2009).
+{{ album(dirname="burning_man_2009", id="72157677938458798", text="The rest of the photos are here") }}.
