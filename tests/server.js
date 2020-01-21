@@ -4,7 +4,7 @@ const handler = require("serve-handler");
 const http = require("http");
 
 async function start(port) {
-  process.chdir(`${__dirname}/../public`);
+  process.chdir(`${__dirname}/../static`);
   const server = http.createServer(handler);
   const listen = promisify(server.listen.bind(server));
   await listen(port);
