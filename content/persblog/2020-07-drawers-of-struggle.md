@@ -3,7 +3,7 @@ title = "Drawers of Struggle"
 slug = "2020/07/drawers-of-struggle/"
 date = 2020-07-03T00:49:30Z
 +++
-It all started with this video in which Josh Right makes a cool cabinet that holds 16 tiny box-jointed drawers all from a single 2x6.
+It all started with this video in which Josh Wright makes a cool cabinet that holds 16 tiny box-jointed drawers all from a single 2x6.
 
 {{ youtube(id="OIqQhs2mBWk") }}
 
