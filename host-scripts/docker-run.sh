@@ -10,18 +10,18 @@ set -o pipefail # don't ignore exit codes when piping output
 set -o posix    # more strict failures in subshells
 # set -x          # enable debugging
 
-IFS="$(printf "\n\t")"
+IFS=$'\n\t'
 # ---- End unofficial bash strict mode boilerplate
+
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
 source ./.env
-image=$(basename "${PWD}")
+image=node:$(cat .nvmrc)
 exec docker run --rm --interactive --tty \
   --attach stdin --attach stdout --attach stderr \
   --volume "${PWD}:/host" \
-  --volume $SSH_AUTH_SOCK:/ssh-agent \
-  --volume $HOME/.gitconfig:/home/node/.gitconfig \
   --env-file ./.env \
-  --env SSH_AUTH_SOCK=/ssh-agent \
+  --env PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/host/bin:/host/local/bin:/host/container-scripts:/host/node_modules/.bin \
+  --workdir /host \
   --user "$(id -u)" \
   --publish "${PORT}:${PORT}" \
-  "${image}" "${2-bash}"
+  "${image}" "${1-bash}"
