@@ -19,3 +19,4 @@
 # replacement value
 {{ album(dirname="$2", id="", text="$1") }}
 ```
+- 2021-07-24 Test netlify updated build image
