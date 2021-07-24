@@ -1,4 +1,4 @@
-FROM node:11.5.0-slim
+FROM node:16.5.0-slim
 
 SHELL ["/bin/bash", "-o", "pipefail", "-o", "errexit", "-u", "-c"]
 

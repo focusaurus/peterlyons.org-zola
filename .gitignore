@@ -4,3 +4,4 @@
 /static/plus-party.*
 /local
 elm-stuff
+/.nyc_output
