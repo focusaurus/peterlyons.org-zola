@@ -3,3 +3,4 @@ ID = "peterlyonsorg-zola"
 [build]
   # Default build command.
   command = "./scripts-container/build.sh"
+  publish = "public"
