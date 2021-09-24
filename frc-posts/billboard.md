@@ -1,0 +1,6 @@
+After a few days visiting with Chris and Liz in Poughkeepsie, we went back up to Malone and stayed in a new airbnb triplex along the highway near town. At this point the delay was waiting for the seller to register the underground storage tank with the Department of Environmental Conservation. The purchase price had already been wired to my attorney for escrow and from my attorney to the seller's attorney for escrow. The last single thing the seller needed to do was file this paperwork and the funds would be immediately released to him, and for some reason, it took him a full week to get it done.
+
+I eventually got forwarded many long email chains having to do with the registration of the UST with the DEC and those threads revealed that even now after going through this whole ordeal and coughing up 5-figures worth of cash to remediate this issue brought about by his lack of due diligence in his real estate dealings, the seller STILL hadn't figure out that there were in fact not one but TWO separate oil tanks on the property.
+
+* The 2000 gallon one buried next to the hallway which was not in use and was what the whole commotion was about
+* A second smaller 275 gallon tank that was above ground next to the back of the rear building and everyone but the seller understood was there and still in use and not an issue but still needed registration with the DEC
