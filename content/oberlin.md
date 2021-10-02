@@ -60,10 +60,10 @@ Chambers</a> (1995)</td>
 <tr>
 <td><a href="https://peterlyons-org.s3.amazonaws.com/snd/altieri_01.mp3">Wind, Wood, Wind, Volt, Wind</a>
 (6:12)</td>
-<td>Jim Altieri (2001)</td>
+<td>Jem Altieri (2001)</td>
 </tr>
 <tr>
-<td class="performers">Jim Altieri, computer</td>
+<td class="performers">Jem Altieri, computer</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
