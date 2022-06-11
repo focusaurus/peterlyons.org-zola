@@ -1,0 +1,7 @@
+After attending a friend's wedding in Colorado the last weekend in July, I flew back to Burlington the following Monday and stayed in an airbnb while Stella drove the van cross country. With all the uncertainty around closing and move-in we ended up having to check out of that airbnb on Friday and I wasn't able to book another one until Saturday. I checked the Red Roof Inn as well as the Holiday Inn and they were all booked up, so that meant spending the first night in Wheeler on my own.
+
+So after work on Friday I grabbed our bed frame out of storage and set it up in room 6. I moved our heavy memory foam mattress in on my own which is difficult. I couldn't find where any of our linens ended up but I found a bunch of towels so I covered the mattress with towels and that was the best I could do.
+
+While trying to get to sleep that night, I heard some sounds maybe coming from the drop ceiling and I thought maybe an animal was in there. The ceiling tile directly overhead was missing since the fire suppression folks had broken it when working on the sprinklers. I didn't really enjoy the thought of a raccoon falling through the ceiling straight onto my face in the middle of the night, so I slid the bed out of the way a bit.
+
+It was not a particularly restful night, but I eventually did get some sleep. We were able to go back to airbnbs the next day which gave us more time to make the place habitable.
