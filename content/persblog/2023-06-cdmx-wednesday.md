@@ -9,4 +9,3 @@ Wednesday morning I set up shop at a coffee shop called Blend Station before hea
 ## Photos (whole trip)
 
 {{ flickr(user="88096431%40N00", set="72177720308909772") }}
-
