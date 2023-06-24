@@ -1,5 +1,5 @@
 base_url = "https://peterlyons.org"
-generate_rss = true
+generate_feed = true
 compile_sass = true
 highlight_code = false
 build_search_index = false
