@@ -4,6 +4,8 @@ slug = "2023/12/woodworking-101/"
 date = 2023-12-03T17:38:21Z
 +++
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/focusaurus/53373513494/in/datetaken/" title="Untitled"><img src="https://live.staticflickr.com/65535/53373513494_0c74a734b5_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 After Thanksgiving I went to middle of nowhere Tennessee (Tazewell) to visit family and take an introduction to hand tools woodworking from my relative Harold who is a master furniture maker and award-winning artisan. Stella and I visited last year during our big winter road trip as well and we had a grand time. This year Stella went home to Malone though so I was solo for this portion of the trip.
 
 The first day we looked at the tools I brought. My experience has been almost exclusively power tools and plywood so far, but I picked up a single jack plane, a set of chisels, a marking knife, and a few other basic tools. The plane was essentially still new so we spent a while sharpening the chip breaker and the blade and conditioning the base to smooth out the material, putting a curve to the corners, apply wax to the base, etc. By the end of the work day I was cranking out lovely thin shavings. The plane actually worked great all week and we didn't end up sharpening it again until just before the final finish work.
