@@ -14,7 +14,7 @@ RUN addgroup --gid "${GROUP_ID}" "${USER}" || true
 RUN adduser --disabled-password --gid "${GROUP_ID}" --uid "${USER_ID}" --gecos "${USER}" "${USER}" || true
 
 EXPOSE 9003
-ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin::/host/scripts-container:/host/bin:/host/node_modules/.bin:/host/local/bin RUST_BACKTRACE=1
+ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/host/bin:/host/node_modules/.bin:/host/local/bin RUST_BACKTRACE=1
 WORKDIR /host
 CMD ["bash"]
 

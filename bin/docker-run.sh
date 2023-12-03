@@ -20,7 +20,7 @@ exec docker run --rm --interactive --tty \
   --attach stdin --attach stdout --attach stderr \
   --volume "${PWD}:/host" \
   --env-file ./.env \
-  --env PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/host/bin:/host/local/bin:/host/scripts-container:/host/node_modules/.bin \
+  --env PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/host/bin:/host/local/bin:/host/bin:/host/node_modules/.bin \
   --workdir /host \
   --user "$(id -u)" \
   --publish "${PORT}:${PORT}" \
