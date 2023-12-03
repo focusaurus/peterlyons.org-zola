@@ -11,7 +11,7 @@ Gora Gora Orkestar is a large brass band playing a variety of styles from around
 - [GoraGora.org](https://goragora.org)
 - [facebook.com/GoraGoraOrkestar](https://www.facebook.com/GoraGoraOrkestar)
 - [reverbnation.com/GoraGoraOrkestar](http://www.reverbnation.com/goragoraorkestar)
-- 2013 - present
+- 2013 - 2020
 
 
 <img class="band" src="/images/legitimate_front.jpg" alt="Legitimate Front"/>
@@ -21,7 +21,7 @@ Legitimate Front is a 70's rock/soul band bursting out of Boulder's Tech/Startup
 
 - [LegitimateFrontBand.com](http://legitimatefrontband.com)
 - [facebook.com/LegitimateFront](https://www.facebook.com/LegitimateFront)
-- 2013 - present
+- 2013 - 2019
 
 
 
