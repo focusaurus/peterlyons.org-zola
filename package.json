@@ -32,7 +32,6 @@
     "eslint-tap": "^2.0.1",
     "serve-handler": "^6.1.3",
     "supertest": "^4.0.2",
-    "tap": "^14.10.7"
-  },
-  "dependencies": {}
+    "tap": "18.6.1"
+  }
 }
