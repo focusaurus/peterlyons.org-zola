@@ -1,10 +1,18 @@
+# The URL the site will be built for
 base_url = "https://peterlyons.org"
-generate_feed = true
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
 compile_sass = true
-highlight_code = false
 build_search_index = false
 title = "The Stretch of Vitality"
+
+[markdown]
+highlight_code = false
+smart_punctuation = false
 
 [extra]
 # Put all your custom variables here
 blog_title = "The Stretch of Vitality"
+
+[slugify]
+paths = "off"

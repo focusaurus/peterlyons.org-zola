@@ -16,4 +16,4 @@ IFS=$'\n\t'
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
 export PATH="${PWD}/local/bin:${PATH}"
 ./bin/build.sh
-zola serve --port "${PORT}" --interface 0.0.0.0
+zola serve --port "${PORT:-9009}"
