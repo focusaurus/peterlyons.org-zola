@@ -1,25 +1,39 @@
+{# fallback title #}
+{% set title = "Peter Lyons" %}
+{% if page.title is defined and page.title -%}{% set title = page.title %}{%- endif -%}
+{% if section.title is defined and section.title -%}{% set title = section.title %}{%- endif -%}
+{% set title = title ~ " | Peter Lyons" -%}
+{# fallback default description -#}
+{% set description = "Personal website for music, travel, family stuff etc" -%}
+{% if page.description is defined and page.description -%}{% set description = page.description %}{%- endif -%}
+{% if section.description is defined and section.description -%}{% set description = section.description %}{%- endif -%}
+
+{# fallback default image -#}
+{% set image = "https://live.staticflickr.com/65535/53715068120_7b864e2188_k_d.jpg" -%}
+{% if page.extra.image is defined and page.extra.image -%}{% set image = page.extra.image %}{%- endif -%}
+{% if section.extra.image is defined and section.extra.image -%}{% set image = section.extra.image %}{%- endif -%}
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="utf-8">
-    <title>
-      {% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
-      -%}{% if section.title is defined -%}{{ section.title }}{% endif -%}|Peter Lyons
-      {% endblock title -%}
-    </title>
-  <meta name="description" content="Peter Lyons">
-  <meta name="keywords" content="peter lyons, pete lyons, saxophone, oberlin, gora gora orkestar">
-  <meta name="author" content="Peter Lyons">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% block style %}
-  <link rel="stylesheet" href="/screen.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata%7CJulius+Sans+One">
-  {% endblock style %}
-  <link rel="preload" href="/main.js" as="script">
-  <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="{{ config.extra.blog_title }}">
-  <link href="/favicon.png" type="image/png" rel="icon">
-  <link rel="author" type="text/plain" href="/humans.txt">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ description }}">
+    <meta name="author" content="Peter Lyons">
+    <meta name="keywords" content="peter lyons, pete lyons, saxophone, oberlin, gora gora orkestar">
+    <meta property="og:url" content="{{current_url|safe}}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:image" content="{{image|safe}}">
+    {% block style %}
+    <link rel="stylesheet" href="/screen.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata%7CJulius+Sans+One">
+    {% endblock style %}
+    <link rel="preload" href="/main.js" as="script">
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="{{ config.extra.blog_title }}">
+    <link href="/favicon.png" type="image/png" rel="icon">
+    <link rel="author" type="text/plain" href="/humans.txt">
 </head>
 
 <body>
