@@ -53,7 +53,7 @@
     </footer>
   </div>
   {% block scripts %}
-  <script type="module" src="/main.js" async=true></script>
+  <script type="module" async>import navigationStart from "/navigation.js";navigationStart();</script>
   {% endblock scripts %}
 </body>
 </html>
