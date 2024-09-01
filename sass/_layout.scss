@@ -1,0 +1,15 @@
+@import "core-layout";
+
+@layer site {
+  p {
+    margin: 0;
+    margin-bottom: 0.6em;
+  }
+
+  .grid {
+    @include centered-column;
+    img {
+      margin-bottom: $pad;
+    }
+  }
+}

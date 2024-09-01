@@ -1,0 +1,11 @@
+@import "colors";
+@import "core-layout";
+
+@layer site {
+  .demo-float {
+    color: $brand-blue;
+    img {
+      @include float(right);
+    }
+  }
+}

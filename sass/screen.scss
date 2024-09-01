@@ -1,84 +1,26 @@
-@import "core/reset";
-@import "core/color";
-@import "core/typography";
-@import "core/base-typography";
-@import "core/layout";
+@layer core, site, page;
+// Files prefixed with "core-*" are intended to be site agnostic
+// and ready to copy into any similar project without modification.
 
-body {
-  background-color: $colorPrimaryBackground;
-  color: $colorPrimary;
-}
-button {
-  background-color: $colorCodeBackground;
-  color: $colorSiteHeader;
-  border-radius: 0.4em;
-}
-button:focus {
-  outline: none;
-}
-button:disabled {
-  color: $colorPrimaryBackground;
-  border: none;
-}
-blockquote {
-  background-color: $colorCodeBackground;
-  padding: 0.5em 1em;
-}
-a {
-  color: $colorLink;
-}
-a:hover {
-  color: $colorLinkHover;
-  text-decoration: none;
-}
-em {
-  font-style: italic;
-}
-h1,
-h2,
-h3 {
-  color: $colorHeader;
-}
-strong {
-  font-weight: bold;
-}
-li {
-  margin-left: 2em;
-}
-ul li {
-  list-style-type: disc;
-}
-ol li {
-  list-style-type: decimal;
-}
-code,
-pre {
-  background-color: $colorCodeBackground;
-  color: $colorCode;
-}
-code {
-  padding: 0 0.2em;
-}
-pre {
-  margin: 1em 0;
-  overflow: auto;
-  padding: 1em;
-}
-.clear {
-  clear: both;
-}
-.none {
-  display: none;
-}
-.content.navOpen {
-  opacity: 0.5;
-}
+// This is a recent version of the open source CSS normalize project
+// https://necolas.github.io/normalize.css/
+@import "_core-normalize";
+// This is core layout styles that can be copied as-is to any similar site.
+@import "_core-layout";
+@import "_core-fonts";
+@import "_core-videos";
 
-@import "home";
-@import "home-typography";
-@import 'core/blog/blog-typography';
-@import 'core/blog/create-post';
-@import 'core/blog/post-list';
-@import 'core/blog/view-post';
-@import 'bands';
-@import 'oberlin';
+// This non-core layout has any styles that are custom for this site
+@import "_layout";
+@import "_images";
+@import "_navigation";
+
+// Any styles specific to a particular page go in a corresponding file.
+@import "_index";
+
+// If you have any styles for this site overall, they can go directly in this file.
+@layer site {
+  html {
+    font-family: "Mulish", sans-serif;
+  }
+}

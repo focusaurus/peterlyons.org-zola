@@ -1,6 +1,7 @@
 +++
 title = "Peter Lyons"
 +++
+
 This is the personal site of Peter Lyons.
 It has my infrequently-updated personal blog,
 links to my personal photos,
