@@ -1,8 +1,8 @@
 @import "color";
 @import "adaptive";
-@import "navigation";
 @import "typography";
 @import "position";
+@import 
 
 body > nav {
   position: fixed;
@@ -51,16 +51,7 @@ header {
   }
 }
 
-.content {
-  margin: 1em;
-  width: 30em;
-  @media only screen and (min-width: 600px) {
-    margin: 1em auto;
-  }
-}
-
 .license {
-  clear: both;
   border-top: solid 1px $colorFooter;
   padding-top: 2rem;
   color: $colorFooter;
