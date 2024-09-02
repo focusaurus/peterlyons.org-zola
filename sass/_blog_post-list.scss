@@ -1,0 +1,39 @@
+@import "fonts";
+@import "colors";
+
+#subscribe {
+  display: block;
+}
+
+.posts {
+  margin-top: 2em;
+}
+
+.post {
+  display: grid;
+  grid-template-columns: 100%;
+  justify-items: center;
+  &:nth-child(even) {
+    background-color: $colorEvenRow;
+  }
+  &:nth-child(odd) {
+    background-color: $colorOddRow;
+  }
+  margin-bottom: 1em;
+}
+
+.postTitle {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: $headerFont;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.postDate {
+  width: 100%;
+  text-align: center;
+  font-size: 90%;
+}
