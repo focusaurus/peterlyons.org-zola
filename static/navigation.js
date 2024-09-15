@@ -1,11 +1,14 @@
 /* global document */
 const nav = document.querySelector("nav.menu");
-document
-  .querySelector("button.open-nav")
-  .addEventListener("click", () => nav.classList.toggle("open"));
-document
-  .querySelector("nav.menu")
-  .addEventListener("click", () => nav.classList.remove("open"));
+const buttonOpenNav = document.querySelector("button.open-nav");
+buttonOpenNav.addEventListener("click", () => {
+  nav.classList.toggle("open");
+  buttonOpenNav.classList.toggle("open");
+});
+document.querySelector("nav.menu").addEventListener("click", () => {
+  nav.classList.remove("open");
+  buttonOpenNav.classList.toggle("open");
+});
 
 // export default function start() {
 //

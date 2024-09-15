@@ -14,11 +14,13 @@ $big: 48px;
     background: transparent;
     line-height: 0.8em;
     text-decoration: none;
-    color: $colorPrimary;
     // Necessary to be above certain third party content
     z-index: 1;
     &:hover {
       cursor: pointer;
+    }
+    &.open {
+      display: none;
     }
   }
 
@@ -27,9 +29,16 @@ $big: 48px;
     top: 0;
     right: 0;
     display: none;
-    background-color: $colorPrimaryBackground;
+    height: 100vh;
+    width: 100vw;
+    background-color: $colorNavBackground;
+    color: $colorNav;
     z-index: 1;
     opacity: 95%;
+
+    &.open {
+      display: grid;
+    }
 
     button.close-nav {
       position: absolute;
@@ -44,28 +53,24 @@ $big: 48px;
       }
     }
 
-    a {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-decoration: none;
-      color: white;
-      font-size: 150%;
-      &:hover {
-        background-color: $colorEvenRow;
-      }
-    }
-
-    h1 {
-      @include centered-column;
-    }
-
-    &.open {
+    section {
       display: grid;
-      height: 100vh;
-      width: 100vw;
       grid-template-columns: 1fr;
       place-items: stretch;
+      text-align: center;
+    }
+
+    a {
+      display: grid;
+      place-items: center;
+      color: white;
+      text-decoration: none;
+      font-size: 150%;
+      font-weight: 700;
+      background-color: $colorNavBackground;
+      &:hover {
+        background-color: $colorNavHover;
+      }
     }
   }
 

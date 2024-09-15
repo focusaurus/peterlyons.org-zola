@@ -17,3 +17,8 @@ $colorEvenRow: lighten($colorPrimaryBackground, 10%);
 $colorNavCurrent: lighten($colorPrimaryBackground, 40%);
 $colorNavButton: $colorPrimary;
 $colorFooter: lighten($colorPrimaryBackground, 30%);
+
+// navigation
+$colorNav: $colorPrimary;
+$colorNavBackground: $colorOddRow;
+$colorNavHover: $colorEvenRow;
