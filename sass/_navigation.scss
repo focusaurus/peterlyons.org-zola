@@ -3,8 +3,35 @@
 
 $big: 48px;
 
+@mixin stack {
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: stretch;
+}
+
 @layer site {
-  button.open-nav {
+  nav section {
+    @include stack;
+    text-align: center;
+    padding: 0;
+
+    a {
+      text-decoration: none;
+      font-size: 150%;
+      font-weight: bold;
+
+      &.current {
+        color: $colorNavCurrent;
+
+        &:before {
+          content: "\232a\00a0";
+        }
+      }
+    }
+  }
+
+  button.open-nav,
+  button.close-nav {
     position: fixed;
     top: 0;
     right: 0;
@@ -16,12 +43,14 @@ $big: 48px;
     text-decoration: none;
     // Necessary to be above certain third party content
     z-index: 1;
+
     &:hover {
       cursor: pointer;
     }
-    &.open {
-      display: none;
-    }
+  }
+
+  button.open-nav.open {
+    display: none;
   }
 
   nav.menu {
@@ -40,50 +69,23 @@ $big: 48px;
       display: grid;
     }
 
-    button.close-nav {
-      position: absolute;
-      top: 0;
-      right: 5px;
-      line-height: 0.8em;
-      border: none;
-      background: transparent;
-      font-size: $big;
-      &:hover {
-        cursor: pointer;
-      }
-    }
-
     section {
-      display: grid;
-      grid-template-columns: 1fr;
-      place-items: stretch;
+      @include stack;
       text-align: center;
     }
 
     a {
-      display: grid;
-      place-items: center;
       color: white;
-      text-decoration: none;
-      font-size: 150%;
-      font-weight: 700;
-      background-color: $colorNavBackground;
+
       &:hover {
         background-color: $colorNavHover;
       }
     }
+
+
   }
 
   footer.grid {
-    display: grid;
-    grid-template-columns: 1fr;
-  }
-
-  footer nav {
-    a {
-      text-decoration: none;
-      display: block;
-      line-height: 200%;
-    }
+    @include centered-column;
   }
 }

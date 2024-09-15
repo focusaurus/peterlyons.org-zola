@@ -10,16 +10,17 @@ document.querySelector("nav.menu").addEventListener("click", () => {
   buttonOpenNav.classList.toggle("open");
 });
 
-// export default function start() {
-//
-//   let path = document.location.pathname;
-//   const persblog = "/persblog/";
-//   if (path.startsWith(persblog)) {
-//     path = path.substring(0, persblog.length);
-//   }
-//   const selector = `nav a[href='${path}']`;
-//   const navEls = document.querySelectorAll(selector);
-//   Array.prototype.forEach.call(navEls, (el) => {
-//     el.classList.add("current");
-//   });
-// }
+export default function start() {
+  let path = document.location.pathname;
+  const persblog = "/persblog/";
+  if (path.startsWith(persblog)) {
+    path = path.substring(0, persblog.length);
+  }
+  const selector = `nav a[href='${path}']`;
+  const navEls = document.querySelectorAll(selector);
+  Array.prototype.forEach.call(navEls, (el) => {
+    el.classList.add("current");
+  });
+}
+
+start();

@@ -48,17 +48,15 @@
     </header>
     <main class="grid">{% block body %}{% endblock body %}</main>
 
-    <footer class="grid">
-      {% block footer -%}
-      <nav>{% include "partials/navigation.html" -%}</nav>
-      {% endblock -%}
-    </footer>
-    <footer class="grid license" role="contentinfo">
-      <p>This work is licensed under a<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">&nbsp;Creative Commons Attribution-ShareAlike 3.0 Unported License.</a></p>
-    </footer>
   </div>
+  <footer>
+    <nav>{% include "partials/navigation.html" -%}</nav>
+  </footer>
+  <footer class="grid license" role="contentinfo">
+    <p>This work is licensed under a<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">&nbsp;Creative Commons Attribution-ShareAlike 3.0 Unported License.</a></p>
+  </footer>
   {% block scripts %}
-  <script type="text/javascript" src="/navigation.js" async></script>
+  <script type="module" src="/navigation.js" async></script>
   {% endblock scripts %}
 </body>
 </html>
