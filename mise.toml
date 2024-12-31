@@ -4,3 +4,4 @@ node = "23.5.0"
 
 [env]
 PORT = "9009"
+BLOG_DIR = "content/persblog"
