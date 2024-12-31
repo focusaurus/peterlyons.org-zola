@@ -1,0 +1,6 @@
+[tools]
+"aqua:getzola/zola" = "v0.19.1"
+node = "23.5.0"
+
+[env]
+PORT = "9009"

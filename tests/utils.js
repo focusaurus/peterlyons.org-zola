@@ -13,7 +13,7 @@ function isValidUri(value) {
 
 const testRedirects = isValidUri(uri);
 let server;
-tap.tearDown(() => server && server.close());
+tap.teardown(() => server && server.close());
 
 function _uri(_server) {
   return `http://localhost:${_server.address().port}`;
