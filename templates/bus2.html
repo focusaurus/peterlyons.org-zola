@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block style %}
+{{ super() }}
+<link rel="stylesheet" href="{{page.path}}/bus.css">
+{% endblock style %}
+{% block body %}
+{{ page.content | safe }}
+<section class="filters">
+  <span class="filter active" onclick="toggle(this, '.east');">eastbound</span>
+  <span class="filter active" onclick="toggle(this, '.west')">westbound</span>
+  <span class="filter active" onclick="toggle(this, '.weekday')">Weekday</span>
+  <span class="filter active" onclick="toggle(this, '.saturday')">Saturday</span>
+  <span class="filter active" onclick="toggle(this, '.sunday')">Sunday</span>
+</section>
+{% set routes = load_data(path="content/bus/routes.json") %}
+{% for k, route in routes %}
+<section class="route {{route.direction}} {{route.day}}">
+  <h1>{{ route.title}}</h1>
+  <div class="timetable">
+    {% for time in route.departTimes %}
+    {% set from = "Lou" %}
+    {% set to = "Den" %}
+    {% if route.direction == "west" %}
+    {% set from = "Den"%}
+    {% set to = "Lou" %}
+    {% endif %}
+    <span class="time depart">{{time}}</span>
+    <span class="from">{{from}}</span>
+    <span class="time arrive">{{route.arriveTimes[loop.index0]}}</span>
+    <span class="to">{{to}}</span>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+{% endblock body %}
+{% block scripts %}
+{{ super() }}
+<script type="module" src="{{page.path}}/bus.js" async=true></script>
+{% endblock scripts %}

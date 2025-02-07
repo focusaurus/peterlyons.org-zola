@@ -16,8 +16,7 @@
      | Peter Lyons
     {%- endif -%}
   </title>
-  <meta name="description" content="Peter Lyons">
-  <meta name="keywords" content="peter lyons, pete lyons, saxophone, oberlin, gora gora orkestar">
+  <meta name="description" content="RTD Bus Schedule Louisville to Denver">
   <meta name="author" content="Peter Lyons">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% block style %}
@@ -28,6 +27,35 @@
   <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="{{ config.extra.blog_title }}">
   <link href="/favicon.png" type="image/png" rel="icon">
   <link rel="author" type="text/plain" href="/humans.txt">
+  <style>
+    span.from {
+    color: green;
+    }
+    span.to {
+    color: orange;
+    }
+    div.timetable {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    }
+
+    .hide {
+    display: none;
+    }
+
+    span.filter.active {
+      background-color: green;
+    }
+
+
+    </style>
+
+    <script>
+    function toggle(src, selector) {
+      document.querySelectorAll(selector).forEach(n=>n.classList.toggle("hide"));
+      src.classList.toggle('active')
+    }
+    </script>
 </head>
 
 <body>
@@ -38,19 +66,32 @@
       <h1 role="banner"><a href="/">Peter Lyons</a></h1>
     </header>
     {% block body %}{% endblock body %}
+    <section class="filters">
+        <span class="filter active" onclick="toggle(this, '.east');">eastbound</span>
+        <span class="filter active" onclick="toggle(this, '.west')">westbound</span>
+        <span class="filter active" onclick="toggle(this, '.weekday')">Weekday</span>
+        <span class="filter active" onclick="toggle(this, '.saturday')">Saturday</span>
+        <span class="filter active" onclick="toggle(this, '.sunday')">Sunday</span>
+      </section>
     {% set routes = load_data(path="content/bus/routes.json") %}
     {% for k, route in routes %}
+      <section class="route {{route.direction}} {{route.day}}">
       <h1>{{ route.title}}</h1>
+      <div class="timetable">
       {% for time in route.departTimes %}
-      <div>
         {% set from = "Lou" %}
         {% set to = "Den" %}
         {% if route.direction == "west" %}
           {% set from = "Den"%}
           {% set to = "Lou" %}
         {% endif %}
-        {{from}} {{time}} - {{to}} {{route.arriveTimes[loop.index0]}}</div>
+        <span class="time depart">{{time}}</span>
+        <span class="from">{{from}}</span>
+        <span class="time arrive">{{route.arriveTimes[loop.index0]}}</span>
+        <span class="to">{{to}}</span>
       {% endfor %}
+      </div>
+      </section>
     {% endfor %}
     <footer class="navigationHorizontal" role="contentinfo">
       {%- include "navigation.html" -%}

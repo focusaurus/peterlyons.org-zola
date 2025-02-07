@@ -12,7 +12,7 @@
       {% set title = section.title %}
     {%- endif -%}
     {{ title }}
-    {%- if not title is containing("Peter Lyons") -%}
+    {% if not title is containing("Peter Lyons") %}
      | Peter Lyons
     {%- endif -%}
   </title>

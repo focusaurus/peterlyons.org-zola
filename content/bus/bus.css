@@ -1,0 +1,25 @@
+span.from {
+  color: green;
+}
+span.to {
+  color: orange;
+}
+div.timetable {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.route h1 {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 20px;
+  margin-bottom: 0.2em;
+}
+
+.hide {
+  display: none;
+}
+
+span.filter.active {
+  background-color: green;
+}
