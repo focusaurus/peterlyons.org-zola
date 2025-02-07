@@ -6,24 +6,24 @@
 {% block body %}
 {{ page.content | safe }}
 <section class="filters">
-  <span class="filter direction east active" onclick="toggle('.direction', '.east');">eastbound</span>
-  <span class="filter direction west" onclick="toggle('.direction', '.west')">westbound</span>
-  <span class="filter day weekday active" onclick="toggle('.day', '.weekday')">Weekday</span>
-  <span class="filter day saturday" onclick="toggle('.day', '.saturday')">Saturday</span>
-  <span class="filter day sunday" onclick="toggle('.day', '.sunday')">Sunday</span>
+  <span class="filter direction east active" onclick="filterDirection('east');">eastbound</span>
+  <span class="filter direction west" onclick="filterDirection('west');">westbound</span>
+  <span class="filter day weekday active" onclick="filterDay('weekday');">Weekday</span>
+  <span class="filter day saturday" onclick="filterDay('saturday');">Saturday</span>
+  <span class="filter day sunday" onclick="filterDay('sunday');">Sunday</span>
 </section>
 {% set routes = load_data(path="content/bus/routes.json") %}
 {% for k, route in routes %}
-<section class="route {{route.direction}} {{route.day}}">
-  <h1>{{ route.title}}</h1>
+<section class="route {{route.direction}} {{route.day}} {% if route.day != 'weekday' or route.direction != 'east' %}hide{% endif %}">
+  {% set from = "Louisville" %}
+  {% set to = "Denver" %}
+  {% if route.direction == "west" %}
+  {% set from = "Denver"%}
+  {% set to = "Louisville" %}
+  {% endif %}
+  <h1>{{route.title}} to {{to}} {{route.day}}</h1>
   <div class="timetable">
     {% for time in route.departTimes %}
-    {% set from = "Louisville" %}
-    {% set to = "Denver" %}
-    {% if route.direction == "west" %}
-    {% set from = "Denver"%}
-    {% set to = "Louisville" %}
-    {% endif %}
     <span class="time depart">{{time}}</span>
     <span class="from">{{from}}</span>
     <span class="time arrive">{{route.arriveTimes[loop.index0]}}</span>

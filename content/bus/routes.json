@@ -120,7 +120,7 @@
       "11:32 PM"
     ],
     "direction": "east",
-    "title": "FF1 Eastbound Saturday"
+    "title": "FF1"
   },
   "ff1EastboundSunday": {
     "arriveTimes": [
@@ -187,7 +187,7 @@
       "11:48 PM"
     ],
     "direction": "east",
-    "title": "FF1 To Denver Sunday/Holiday"
+    "title": "FF1"
   },
   "ff1EastboundWeekday": {
     "arriveTimes": [
@@ -322,7 +322,7 @@
       "11:46 PM"
     ],
     "direction": "east",
-    "title": "FF1 to Denver Weekday"
+    "title": "FF1"
   },
   "ff1WestboundSaturday": {
     "arriveTimes": [
@@ -445,7 +445,7 @@
       "12:26 AM"
     ],
     "direction": "west",
-    "title": "FF1 to Louisville Saturday"
+    "title": "FF1"
   },
   "ff1WestboundSunday": {
     "arriveTimes": [
@@ -510,7 +510,7 @@
       "12:32 AM"
     ],
     "direction": "west",
-    "title": "FF1 to Louisville Sunday/Holiday"
+    "title": "FF1"
   },
   "ff1WestboundWeekday": {
     "arriveTimes": [
@@ -639,6 +639,6 @@
       "12:25 AM"
     ],
     "direction": "west",
-    "title": "FF1 to Louisville Weekday"
+    "title": "FF1"
   }
 }
