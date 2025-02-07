@@ -1,0 +1,12 @@
+- [x] start branch for zola
+- [x] port default
+- [x] zola config
+- [x] start a branch for tidy site overhaul
+- [ ] using existing layout, add screen2.scss and bring stuff over in bits
+  - [x] title
+  - [x] opengraph
+  - [x] home page
+    - [x] nav
+  - [ ] blog post list page
+  - [ ] fonts
+  - [x] colors
