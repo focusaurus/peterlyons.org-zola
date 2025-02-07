@@ -4,6 +4,7 @@ span.from {
 span.to {
   color: orange;
 }
+
 div.timetable {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -20,6 +21,6 @@ div.timetable {
   display: none;
 }
 
-span.filter.active {
+.filter.active {
   background-color: green;
 }
