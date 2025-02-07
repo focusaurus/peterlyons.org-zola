@@ -1,12 +1,13 @@
+div.timetable {
+  display: grid;
 span.from {
-  color: green;
+  color: blue;
 }
+
 span.to {
   color: orange;
 }
 
-div.timetable {
-  display: grid;
   grid-template-columns: repeat(4, 1fr);
 }
 
@@ -21,6 +22,12 @@ div.timetable {
   display: none;
 }
 
+.filter {
+  padding: 0 2px;
+}
+
 .filter.active {
-  background-color: green;
+  background-color: lightgreen;
+  border: 3px solid lightgreen;
+  border-radius: 20px;
 }

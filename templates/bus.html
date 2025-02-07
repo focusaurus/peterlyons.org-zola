@@ -18,11 +18,11 @@
   <h1>{{ route.title}}</h1>
   <div class="timetable">
     {% for time in route.departTimes %}
-    {% set from = "Lou" %}
-    {% set to = "Den" %}
+    {% set from = "Louisville" %}
+    {% set to = "Denver" %}
     {% if route.direction == "west" %}
-    {% set from = "Den"%}
-    {% set to = "Lou" %}
+    {% set from = "Denver"%}
+    {% set to = "Louisville" %}
     {% endif %}
     <span class="time depart">{{time}}</span>
     <span class="from">{{from}}</span>
