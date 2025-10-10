@@ -12,7 +12,7 @@ This post will bullet list out some of the projects we undertook. Mostly I'm cur
 
 We have a little wireless remote for our bedroom lamp which started flaking out as we unpacked. I opened the case to have a look and just by coincidence I discovered the main electronics were a pair of buttons that were the exact same component I use for reset switches on my keyboard projects. So while we're still 98% in boxes, I dug out my soldering iron and keyboard electronics parts. I set up a temporary workbench on some plastic storage bins in the garage, desoldered the bad switch, and installed a replacement. The fix worked great. I was super pleased with that.
 
-TODO photos
+{{ figureflickr(url="https://live.staticflickr.com/65535/54044541947_9698cd0a91_b.jpg" caption="light remote being repaired") }}
 
 ## Assorted Fixes 1
 
@@ -48,6 +48,9 @@ The first room we did a full renovation on was Stella's studio. It was a pretty 
 - mounted a new shelf on the wall for a speaker and ran the power cord behind the drywall
 - Stella painted a geometric art piece directly on the walls in one corner
 
+{{ figureflickr(url="https://live.staticflickr.com/65535/54128616701_66708230ce_b.jpg" caption="Studio renovation before") }}
+
+{{ figureflickr(url="https://live.staticflickr.com/65535/54225670147_fe38654289_b.jpg" caption="Studio renovation after") }}
 
 ## Assorted Fixes 2
 
@@ -65,6 +68,8 @@ The first room we did a full renovation on was Stella's studio. It was a pretty 
 - Stella repurposed the old paper ball lamp shades into an art piece
 - built a slop sink from used parts and installed in the laundry room
 
+{{ figureflickr(url="https://live.staticflickr.com/65535/54407647754_0efee42cd8_b.jpg" caption="new slop sink") }}
+
 ## Flooring Project
 
 Probably the key issue driving most of the renovations was needing to get rid of the old carpet. It was installed in 2008 and was way past due for replacement - especially with 2 large dogs living there recently. So we were keen to get it yanked out fairly quickly. We ended up spending most of Christmas break tackling the flooring on the main floor.
@@ -75,11 +80,15 @@ The goal was no transitions for this whole section of rooms: living room, hallwa
 
 One challenge is the kitchen and dining room were probably done with a second layer of subfloor so there's a transition of more than 1" to deal with. The carpet mostly obscured this but with the slimmer LVP, it was a big difference. We ended up getting an OK result with some quarter round that matched the floor very closely but there's no magic to erase that huge difference.
 
+{{ figureflickr(url="https://live.staticflickr.com/65535/54247016354_e630aa45fa_b.jpg" caption="new floors going into the living room") }}
+
 ## Office Renovation
 
 We gave Stella's office a full renovation next. Mostly the same process as the studio. This did involve an annoying trip into the attic to adjust the height of the in-ceiling speakers. Only after that whole excursion did I realize the hardware was fully adjustable from below and there was no need to tyvek up and go in the attic after all. But during that attic expidition I managed to accidentally bump some ceiling drywall loose which created a whole subproject to fix that before we could cover the popcorn ceiling with shiplap.
 
 This room get a better ceiling fan and light fixture. We also did some 3D printed trim corner pieces which worked out pretty nicely.
+
+{{ figureflickr(url="https://live.staticflickr.com/65535/54475880445_1581d050a1_b.jpg" caption="office renovation") }}
 
 ## Assorted Fixes 3
 
@@ -90,10 +99,15 @@ This room get a better ceiling fan and light fixture. We also did some 3D printe
 - We needed a plumbing repair on the back yard hose bib, so we had to build an access panel to cover the hole he had to cut into the drywall ceiling in my closet
 - We put new LED lights in the garage workshop. Huge improvement.
 
+{{ figureflickr(url="https://live.staticflickr.com/65535/54510362978_0a94968198_b.jpg" caption="new LED lights in garage workshop") }}
 
 ## Bedroom Renovation
 
 The last full renovation we hid was our bedroom in May. It was the same basic approach as the other 2 rooms. The closet was a bit trickier for flooring since the radon pipe goes through there. We also built a custom slat wall to set up as our headboard
+
+{{ figureflickr(url="https://live.staticflickr.com/65535/54539869104_b98fcc50fb_b.jpg" caption="bedroom before") }}
+
+{{ figureflickr(url="https://live.staticflickr.com/65535/54545411668_c722fd3466_b.jpg" caption="bedroom after") }}
 
 ## Assorted Fixes 4
 
@@ -109,6 +123,13 @@ The last full renovation we hid was our bedroom in May. It was the same basic ap
   - it has motorized louvers in the ceiling and motorized shades on all the walls
   - it's solar powered which is cool
 
+{{ figureflickr(url="https://live.staticflickr.com/65535/54726158467_25683d2866_b.jpg" caption="worshop cabinet wall") }}
+
+{{ figureflickr(url="https://live.staticflickr.com/65535/54818356620_34628502d0_b.jpg" caption="morning coffee in the new pergola") }}
+
 ## HVAC
 
 After a lot of research and quotes, we got a full HVAC system upgrade. The main ducts are now powered by a new heat pump with gas backup furnace. We also had an additional mini split installed to the main basement room since there's just no way for the ductwork as it exists to heat that space properly.
+
+{{ figureflickr(url="https://live.staticflickr.com/65535/54785573578_e82335b205_b.jpg" caption="mini split going in") }}
+
