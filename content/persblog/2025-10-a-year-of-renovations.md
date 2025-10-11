@@ -2,6 +2,8 @@
 title = "A Year of Renovations"
 slug = "2025/10/a-year-of-renovations/"
 date = 2025-10-10T15:40:42Z
+[extra]
+image = "https://live.staticflickr.com/65535/54225670147_fe38654289_b.jpg"
 +++
 
 We moved back to Colorado from New York just over a year ago. We arrived on October 1st. The house was very much ready for renovations and deferred maintenance after having rental tenants with teenages and large dogs for the past 7 years or so.
