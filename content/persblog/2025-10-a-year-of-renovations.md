@@ -99,6 +99,7 @@ This room get a better ceiling fan and light fixture. We also did some 3D printe
 - Stella build a dead hedge "vivienda coneja" for the back yard
 - Stella set up a rain barrel and water pond
 - We needed a plumbing repair on the back yard hose bib, so we had to build an access panel to cover the hole he had to cut into the drywall ceiling in my closet
+- Moved spare floating shelves to the downstairs bathroom - sawing them to length to fit a smaller wall
 - We put new LED lights in the garage workshop. Huge improvement.
 
 {{ figureflickr(url="https://live.staticflickr.com/65535/54510362978_0a94968198_b.jpg" caption="new LED lights in garage workshop") }}
