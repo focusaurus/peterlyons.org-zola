@@ -5,7 +5,7 @@ date = 2013-01-26T19:55:09.927Z
 +++
 OK, still testing out the new blog system. Seems to work pretty well. I'm at Good Measure coffee shop in Louisville not far from home. There's a group of 9 guitarists here gathered around a long table trading songs and strumming away their Saturday afternoon. Yesterday at the end of the day I scrambled to get our new code deployed and then record screencasts for our weekly demo video, get the summary email out, and then scamper out the door to get to The Spot for a bouldering date by 6pm.
 
-<a href="https://www.flickr.com/photos/88096431@N00/8416914473/" title="good measure by Peter Lyons, on Flickr"><img src="https://farm9.staticflickr.com/8195/8416914473_e058417abc.jpg" width="500" height="375" alt="good measure"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2013/2013-01-26-017HVERK0R5SJASQZ91H96TRC6.2048.jpg" caption="good measure") }}
 
 I bouldered with Shannon for a solid 2.5 hour session. We worked on some tough and interesting problems that we couldn't ever quite conquer. Then it was on to Chez Thuy for delicious Vietnamese food.
 

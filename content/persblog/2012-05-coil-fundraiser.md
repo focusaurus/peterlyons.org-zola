@@ -17,4 +17,4 @@ So then I was pretty wide awake and feeling really strange around 5am. I think I
 
 Today I was planning to ride the new mountain bike, but the forecast is for rain. Maybe I'll just try to quickly ride Davidson Mesa right here in the neighborhood before the weather arrives.
 
-<a href="https://www.flickr.com/photos/88096431@N00/7224181722/" title="CoiL sneak peek by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7242/7224181722_7f47ff14ba.jpg" width="375" height="500" alt="CoiL sneak peek"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2012/2012-05-18-016XGE65D03QEYDWJEEHF6QAYW.2048.jpg" caption="CoiL sneak peek") }}

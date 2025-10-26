@@ -9,10 +9,10 @@ I ran across [John DeGoes](https://twitter.com/#!/jdegoes) on the plane out here
 
 After finding my room and briefly settling in I headed out on the MUNI to Ed's neighborhood Cole Valley. We had delicious sushi at [Hama Ko](http://www.yelp.com/biz/hama-ko-sushi-san-francisco). There is no sign on it and it is literally a ma and pa shop, but the food is great. Ed eats here a lot. We discussed the fact that just a few years ago both of us were extremely picky eaters, and now I ordered the "sushi combination" selected by the chef without batting an eye and loved it. Yet another thing that gets better with age.
 
-<a href="https://www.flickr.com/photos/88096431@N00/6746650871/" title="Sushi combination at Hama Ko by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7019/6746650871_910c416192.jpg" width="500" height="375" alt="Sushi combination at Hama Ko"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2012/2012-01-22-016M3EG4RR35J0VQSGNA48PY8K.2048.jpg" caption="Sushi combination at Hama Ko") }}
 
 After our sushi feast we went to the new ice cream bar around the corner for classic american soda shop feel and ice cream. I then enjoyed another MUNI ride back and walk around my neighborhood. My host Vishal has just given me some recommendations. I've also managed to set up several social outings via OK Cupid while I'm here, the first of which is tomorrow afternoon, so more news to come from those.
 
-<a href="https://www.flickr.com/photos/88096431@N00/6747152633/" title="askance by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7152/6747152633_df53d05aef.jpg" width="375" height="500" alt="askance"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2012/2012-01-22-016M3MW9Z8QY2ER2PJ43D8AEXR.2048.jpg" caption="askance") }}
 
 [All photos from this trip are here](https://www.flickr.com/photos/88096431@N00/sets/72157628993108793/)

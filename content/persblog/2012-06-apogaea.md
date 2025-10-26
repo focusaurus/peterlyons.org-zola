@@ -5,7 +5,7 @@ date = 2012-06-14T01:49:53.544Z
 +++
 We did it! We put on a goddamn Circus at [Apogaea](http://apogaea.com/). Rewinding to the week before, I was planning to go to Crested Butte for a mountain biking trip, but the organizers canceled it at the last minute, after I had already bought food and packed the car. I was irked but ultimately I knew it was a good thing so I would have time for more Apogaea packing and Gypsy Wranglers work. I ended up biking Sourdough Trail with Lewbacca early Sunday morning.
 
-<a href="https://www.flickr.com/photos/88096431@N00/7367614818/" title="Brainard Lake with Lewis by Peter Lyons, on Flickr"><img src="https://farm8.staticflickr.com/7216/7367614818_93737bdccf.jpg" width="500" height="375" alt="Brainard Lake with Lewis"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2012/2012-06-12-016ZH8C65037YN6CZY5ZHQ5KTS.2048.jpg" caption="Brainard Lake with Lewis") }}
 
 We rode from the Sourdough trail head up to Brainard lake. We left Boulder at 8 AM and had the trail pretty much to ourselves. It's a lot of uphill slogging but I faired noticeably better than I did last year. It was nice to snack and look at Brainard Lake before starting the mostly-downhill descent. Lew's bike computer says he hit about 35 MPH on the road leading away from the lake.
 

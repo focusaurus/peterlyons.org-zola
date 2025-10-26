@@ -26,7 +26,7 @@ I spent this morning (10/20 - post was written in several sittings) getting the 
 
 One good DIY success was the new stereo for my Insight. A stereo without an 1/8" stereo miniplug auxillary input is totally unacceptable to me, so I bought one for $54 from amazon.com using a portion of a $200 gift card I earned by doing a survey interview last month. I was tempted to have it installed at a shop, especially when I realized I would have to wire up the wiring harness for this stereo to the adapter for the car, which is an extremely tedious thing. I priced installation as well as new speakers, but ended up doing the whole thing myself. I re-used the existing wiring harness ($21 savings) and just cut the wires where they were crimped. I used regular household scissors instead of wire strippers, and the guy at the car audio store was nice enough to give me a handful of crimps I could use to make the connections. I was able to get the whole thing wired up and installed without too much trouble.
 
-<a href="https://www.flickr.com/photos/88096431@N00/8131690369/" title="Successful crimping of car stereo wiring harness by Peter Lyons, on Flickr"><img src="https://farm9.staticflickr.com/8331/8131690369_cc25ee9b15.jpg" width="500" height="375" alt="Successful crimping of car stereo wiring harness"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2012/2012-10-27-017AHYGPY8961QPMMGW8VHY2D8.2048.jpg" caption="Successful crimping of car stereo wiring harness") }}
 
 Even though I thought I was being pretty frugal (at least in the long-term sense) this month, I'm still pretty shocked by how much money I spend. Here are some improvements I made, though.
 

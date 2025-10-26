@@ -21,6 +21,6 @@ Friday Tony came to the GGO show. Saturday he went both to Fort Collins to visit
 
 The past couple weeks have been mostly normal routine for me. I went to Tour de Fat Fort Collins with Jasmine at the end of August, which was a lot of fun. We dressed as NSA goons in FBI-type attire, carried boom microphones around, and staying in character hovering around people creeping them out, which I really enjoyed. Also Reggie Watts performed and he's great.
 
-<a href="https://www.flickr.com/photos/88096431@N00/9639933781/" title="Tour de Fat 2013 - NSA Goons by Peter Lyons, on Flickr"><img src="https://farm6.staticflickr.com/5502/9639933781_92d2ecd91d.jpg" width="375" height="500" alt="Tour de Fat 2013 - NSA Goons"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2002/2002-12-08-00Y7Z086G0CR9VVHTEPT81KB2S.2048.jpg" caption="Tour de Fat 2013 - NSA Goons") }}
 
 Today I just relaxed, caught up on a dozen emails that have been neglected for weeks and weeks and took it easy (2 servings of gelato so far, as well as Aji leftovers).

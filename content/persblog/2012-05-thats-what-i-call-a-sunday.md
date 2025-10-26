@@ -11,6 +11,6 @@ After that I had to immediately head home and very efficiently get cleaned up fo
 
 The day goes on. 8:30pm I leave aerials class and drive to Boulder to hear Hellen Gillet played cello with a looper pedal. Alice was there and I was starving so I had a bowl of their apple smoked bacon and white bean soup and a burrito. Hellen was really fun to listen to. Not as fascinating to me as Zoe Keating, but really sharp with her Boss RC-50 looper pedal.
 
-<a href="https://www.flickr.com/photos/88096431@N00/7239184080/" title="Hellen Gillet by Peter Lyons, on Flickr"><img src="https://farm6.staticflickr.com/5335/7239184080_120d27bb56.jpg" width="500" height="375" alt="Hellen Gillet"></a>
+{{ figureplop(url="https://photos.peterlyons.com/2012/2012-05-20-016XP46K7R26YJH9HDFMKBMPF9.2048.jpg" caption="Hellen Gillet") }}
 
 And that, folks, is a "relaxing" Sunday for me these days.

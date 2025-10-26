@@ -4,7 +4,7 @@ slug = "2023/12/woodworking-101/"
 date = 2023-12-03T17:38:21Z
 +++
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/focusaurus/53373513494/in/datetaken/" title="Untitled"><img src="https://live.staticflickr.com/65535/53373513494_0c74a734b5_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{ figureplop(url="https://photos.peterlyons.com/2023/2023-12-03-01HGR16448W2MNGRF3XY32XQXS.2048.jpg" caption="Untitled") }}
 
 After Thanksgiving I went to middle of nowhere Tennessee (Tazewell) to visit family and take an introduction to hand tools woodworking from my relative Harold who is a master furniture maker and award-winning artisan. Stella and I visited last year during our big winter road trip as well and we had a grand time. This year Stella went home to Malone though so I was solo for this portion of the trip.
 
