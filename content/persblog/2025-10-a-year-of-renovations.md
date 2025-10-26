@@ -3,7 +3,7 @@ title = "A Year of Renovations"
 slug = "2025/10/a-year-of-renovations/"
 date = 2025-10-10T15:40:42Z
 [extra]
-image = "https://live.staticflickr.com/65535/54225670147_fe38654289_b.jpg"
+image = "https://photos.peterlyons.com/2024/2024-12-25-01JFYV7KW06G2TTG4X6391TCWX.2048.jpg"
 +++
 
 We moved back to Colorado from New York just over a year ago. We arrived on October 1st. The house was very much ready for renovations and deferred maintenance after having rental tenants with teenages and large dogs for the past 7 years or so.
@@ -14,7 +14,7 @@ This post will bullet list out some of the projects we undertook. Mostly I'm cur
 
 We have a little wireless remote for our bedroom lamp which started flaking out as we unpacked. I opened the case to have a look and just by coincidence I discovered the main electronics were a pair of buttons that were the exact same component I use for reset switches on my keyboard projects. So while we're still 98% in boxes, I dug out my soldering iron and keyboard electronics parts. I set up a temporary workbench on some plastic storage bins in the garage, desoldered the bad switch, and installed a replacement. The fix worked great. I was super pleased with that.
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54044541947_9698cd0a91_b.jpg" caption="light remote being repaired") }}
+{{ figureplop(url="https://photos.peterlyons.com/2024/2024-10-05-01J9E4PRB8B41Q71WW6KFWC9HF.2048.jpg" caption="light remote being repaired") }}
 
 ## Assorted Fixes 1
 
@@ -50,9 +50,9 @@ The first room we did a full renovation on was Stella's studio. It was a pretty 
 - mounted a new shelf on the wall for a speaker and ran the power cord behind the drywall
 - Stella painted a geometric art piece directly on the walls in one corner
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54128616701_66708230ce_b.jpg" caption="Studio renovation before") }}
+{{ figureplop(url="https://photos.peterlyons.com/2024/2024-11-09-01JC8RN7481820VP7REPE4YARS.2048.jpg" caption="Studio renovation before") }}
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54225670147_fe38654289_b.jpg" caption="Studio renovation after") }}
+{{ figureplop(url="https://photos.peterlyons.com/2024/2024-12-25-01JFYV7KW06G2TTG4X6391TCWX.2048.jpg" caption="Studio renovation after") }}
 
 ## Assorted Fixes 2
 
@@ -70,7 +70,7 @@ The first room we did a full renovation on was Stella's studio. It was a pretty 
 - Stella repurposed the old paper ball lamp shades into an art piece
 - built a slop sink from used parts and installed in the laundry room
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54407647754_0efee42cd8_b.jpg" caption="new slop sink") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-03-22-01JPZBY9F891YVDZFKRXHXAEXH.2048.jpg" caption="new slop sink") }}
 
 ## Flooring Project
 
@@ -82,7 +82,7 @@ The goal was no transitions for this whole section of rooms: living room, hallwa
 
 One challenge is the kitchen and dining room were probably done with a second layer of subfloor so there's a transition of more than 1" to deal with. The carpet mostly obscured this but with the slimmer LVP, it was a big difference. We ended up getting an OK result with some quarter round that matched the floor very closely but there's no magic to erase that huge difference.
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54247016354_e630aa45fa_b.jpg" caption="new floors going into the living room") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-01-04-01JGS175H04Q0EC75GVFY8WBHB.2048.jpg" caption="new floors going into the living room") }}
 
 ## Office Renovation
 
@@ -90,7 +90,7 @@ We gave Stella's office a full renovation next. Mostly the same process as the s
 
 This room get a better ceiling fan and light fixture. We also did some 3D printed trim corner pieces which worked out pretty nicely.
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54475880445_1581d050a1_b.jpg" caption="office renovation") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-04-23-01JSHZNADGTVSSW6P4JM0G1G4X.2048.jpg" caption="office renovation") }}
 
 ## Assorted Fixes 3
 
@@ -102,15 +102,15 @@ This room get a better ceiling fan and light fixture. We also did some 3D printe
 - Moved spare floating shelves to the downstairs bathroom - sawing them to length to fit a smaller wall
 - We put new LED lights in the garage workshop. Huge improvement.
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54510362978_0a94968198_b.jpg" caption="new LED lights in garage workshop") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-05-10-01JTX0T6GRDZQYTETM3C1ZFBQE.2048.jpg" caption="new LED lights in garage workshop") }}
 
 ## Bedroom Renovation
 
 The last full renovation we hid was our bedroom in May. It was the same basic approach as the other 2 rooms. The closet was a bit trickier for flooring since the radon pipe goes through there. We also built a custom slat wall to set up as our headboard
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54539869104_b98fcc50fb_b.jpg" caption="bedroom before") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-05-22-01JVWQQ940WTJHYP9N8R9Z7D73.2048.jpg" caption="bedroom before") }}
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54545411668_c722fd3466_b.jpg" caption="bedroom after") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-05-25-01JW3SE308GD97S144N6APWHWM.2048.jpg" caption="bedroom after") }}
 
 ## Assorted Fixes 4
 
@@ -126,13 +126,14 @@ The last full renovation we hid was our bedroom in May. It was the same basic ap
   - it has motorized louvers in the ceiling and motorized shades on all the walls
   - it's solar powered which is cool
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54726158467_25683d2866_b.jpg" caption="worshop cabinet wall") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-08-17-01K2VYRGSRNK2CW2DAK1VQNNA9.2048.jpg" caption="worshop cabinet wall") }}
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54818356620_34628502d0_b.jpg" caption="morning coffee in the new pergola") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-09-28-01K67Z88283S8QVJCHRAPFXMFH.2048.jpg" caption="morning coffee in the new pergola") }}
+
 
 ## HVAC
 
 After a lot of research and quotes, we got a full HVAC system upgrade. The main ducts are now powered by a new heat pump with gas backup furnace. We also had an additional mini split installed to the main basement room since there's just no way for the ductwork as it exists to heat that space properly.
 
-{{ figureflickr(url="https://live.staticflickr.com/65535/54785573578_e82335b205_b.jpg" caption="mini split going in") }}
+{{ figureplop(url="https://photos.peterlyons.com/2025/2025-09-12-01K4YV54F8K2CCSE87D4ZEQ1PZ.2048.jpg" caption="mini split going in") }}
 
