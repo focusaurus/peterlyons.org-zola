@@ -63,7 +63,7 @@ Mechanism complete and mounted to the miter guage. We custom designed and 3D pri
 
 Here it is working. The clicking sound is our terrible stock miter guage rail rattling back and forth in the miter slot.
 
-{{ video(url="https://photos.peterlyons.com/2020/2020-05-31-01E9N4YSM046STCWDK189ZS4EG.2048.mp4") }}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/focusaurus/49956921082/in/album-72157714897714366/" title="VID_20200531_091306"><img src="https://live.staticflickr.com/31337/49956921082_ded3bd0491_b.jpg" alt="VID_20200531_091306"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hmm, we can't have that. Time for Subproject 2: Convert the miter guage jig into a sled. We cut our own hardwood miter rails. Lots of videos of folks doing this easily on youtube, but getting a straight cut of exactly the right thickness was not at all easy and we spent a lot of time attempting this, sanding, buying a hand plane which we did not know how to assemble or use, etc.
 
@@ -71,7 +71,7 @@ Hmm, we can't have that. Time for Subproject 2: Convert the miter guage jig into
 
 Here's the jig with rails in action cutting some wider fingers. But the action was still pretty sloppy and the jig itself is optimized for larger workpieces. Our tiny 2.5" square drawer fronts were too small to fit in the jig at all.
 
-{{ video(url="https://photos.peterlyons.com/2020/2020-05-31-01E9NMTCS8TWXNRVS78AGE44E5.2048.mp4") }}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/focusaurus/49957573021/in/album-72157714897714366/" title="VID_20200531_125651"><img src="https://live.staticflickr.com/31337/49957573021_5372abfd52_b.jpg" alt="VID_20200531_125651"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 So it's time for Subproject 3: Make a small parts crosscut table saw sled. We watched a lot of youtube videos, most of which are making sleds with a lot of complex stuff like built-in clamps, T-track, stop blocks, tape measures, etc. We eventually found a fairly straightforward one we thought might be achievable. We made runners out of oak (our first wood other than fir). Here we are gluing the runners to the sled bottom.
 
