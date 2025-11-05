@@ -1,0 +1,105 @@
+{% set album_content = load_data(path=path) %}
+{% set lines = album_content | split(pat="\n") %}
+<div class="plop-album">
+  <figure class="album-viewer">
+    <img class="album-photo" src="" alt="">
+    <figcaption class="album-caption"></figcaption>
+  </figure>
+  <div class="album-controls">
+    <button class="album-btn album-prev" aria-label="Previous photo">&larr; Prev</button>
+    <span class="album-counter"></span>
+    <button class="album-btn album-next" aria-label="Next photo">Next &rarr;</button>
+  </div>
+
+  <script>
+    (function() {
+      const photos = [];
+      let currentUrl = null;
+
+      // Parse the album data
+      const lines = [
+        {% for line in lines %}
+        {% set trimmed = line | trim %}
+        {% if trimmed %}
+        {{ trimmed | json_encode() | safe }},
+        {% endif %}
+        {% endfor %}
+      ];
+
+      // Process lines into photo objects
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+        if (line.match(/^https?:\/\//)) {
+          // This is a URL
+          if (currentUrl) {
+            // Previous URL had no caption
+            photos.push({ url: currentUrl, caption: '' });
+          }
+          currentUrl = line;
+        } else if (currentUrl) {
+          // This is a caption for the previous URL
+          photos.push({ url: currentUrl, caption: line });
+          currentUrl = null;
+        }
+      }
+
+      // Handle last URL if it had no caption
+      if (currentUrl) {
+        photos.push({ url: currentUrl, caption: '' });
+      }
+
+      let currentIndex = 0;
+      const imgEl = document.querySelector('.album-photo');
+      const captionEl = document.querySelector('.album-caption');
+      const counterEl = document.querySelector('.album-counter');
+      const prevBtn = document.querySelector('.album-prev');
+      const nextBtn = document.querySelector('.album-next');
+
+      function showPhoto(index) {
+        const photo = photos[index];
+        imgEl.src = photo.url;
+        imgEl.alt = photo.caption;
+
+        if (photo.caption) {
+          captionEl.textContent = photo.caption;
+          captionEl.style.display = 'block';
+        } else {
+          captionEl.style.display = 'none';
+        }
+
+        counterEl.textContent = `${index + 1} / ${photos.length}`;
+
+        prevBtn.disabled = index === 0;
+        nextBtn.disabled = index === photos.length - 1;
+      }
+
+      prevBtn.addEventListener('click', function() {
+        if (currentIndex > 0) {
+          currentIndex--;
+          showPhoto(currentIndex);
+        }
+      });
+
+      nextBtn.addEventListener('click', function() {
+        if (currentIndex < photos.length - 1) {
+          currentIndex++;
+          showPhoto(currentIndex);
+        }
+      });
+
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'ArrowLeft' && currentIndex > 0) {
+          currentIndex--;
+          showPhoto(currentIndex);
+        } else if (e.key === 'ArrowRight' && currentIndex < photos.length - 1) {
+          currentIndex++;
+          showPhoto(currentIndex);
+        }
+      });
+
+      if (photos.length > 0) {
+        showPhoto(0);
+      }
+    })();
+  </script>
+</div>
