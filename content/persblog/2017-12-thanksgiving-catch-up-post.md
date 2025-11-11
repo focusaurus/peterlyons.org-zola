@@ -39,4 +39,4 @@ I'm in RC today blogging just for fun and because the WiFi at my apartment is ab
 
 Here's some photos of the 2nd part of my time here in NYC this fall.
 
-![flickr](https://www.flickr.com/photos/focusaurus/sets/72157663724573648)
+{{ plopalbum(path="persblog/2017-12-thanksgiving-catch-up-post.pa.json") }}

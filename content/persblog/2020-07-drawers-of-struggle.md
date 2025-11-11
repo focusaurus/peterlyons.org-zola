@@ -158,3 +158,5 @@ Finally done! The lighter drawers are from a resawn 2x6 and the darker ones are 
 The full set of attempts.
 
 {{ figureplop(url="https://photos.peterlyons.com/2020/2020-06-28-01EBXHR1784NNV0T7QBJPEZCJF.2048.jpg" caption="") }}
+
+{{ plopalbum(path="persblog/2020-07-drawers-of-struggle.pa.json") }}

@@ -15,4 +15,4 @@ After our sushi feast we went to the new ice cream bar around the corner for cla
 
 {{ figureplop(url="https://photos.peterlyons.com/2012/2012-01-22-016M3MW9Z8QY2ER2PJ43D8AEXR.2048.jpg" caption="askance") }}
 
-[All photos from this trip are here](https://www.flickr.com/photos/88096431@N00/sets/72157628993108793/)
+{{ plopalbum(path="persblog/2012-01-san-francisco-getting-started.pa.json") }}

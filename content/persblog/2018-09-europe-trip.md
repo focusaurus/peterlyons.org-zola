@@ -75,4 +75,4 @@ Overall it was a super awesome trip. Definitely the boat trip through Stockholm 
 
 Here's some photos.
 
-![flickr](https://www.flickr.com/photos/focusaurus/albums/72157697238261611)
+{{ plopalbum(path="persblog/2018-09-europe-trip.pa.json") }}
