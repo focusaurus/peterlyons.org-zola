@@ -25,7 +25,7 @@
       function showPhoto(index) {
         const photo = photos[index];
         imgEl.src = photo.url;
-        imgEl.alt = photo.caption;
+        imgEl.alt = photo.caption || '';
 
         if (photo.caption) {
           captionEl.textContent = photo.caption;
