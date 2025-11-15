@@ -23,4 +23,4 @@ Once back in town, we stopped at a grocery store where Jasmine got a gift for th
 
 This was my first-ever backpacking trip and probably my first legitimate camping experience. I bought the pack last summer and only used it for climbing day trips. It was a good experience and for the most part I had a good set of gear. Some minor tweaks next, time, that's all.
 
-{{ flickr(user="88096431%40N00", set="72157630831350450") }}
+{{ plopalbum(path="content/persblog/2012-07-conundrum-hot-springs-backpacking-72157630831350450.pa.json") }}

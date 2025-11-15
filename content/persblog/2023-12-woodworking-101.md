@@ -4,7 +4,7 @@ slug = "2023/12/woodworking-101/"
 date = 2023-12-03T17:38:21Z
 +++
 
-{{ figureplop(url="https://photos.peterlyons.com/2023/2023-12-03-01HGR16448W2MNGRF3XY32XQXS.2048.jpg" caption="Untitled") }}
+{{ figureplop(url="https://photos.peterlyons.com/2023/2023-12-03-01HGR16448W2MNGRF3XY32XQXS.2048.jpg" caption="") }}
 
 After Thanksgiving I went to middle of nowhere Tennessee (Tazewell) to visit family and take an introduction to hand tools woodworking from my relative Harold who is a master furniture maker and award-winning artisan. Stella and I visited last year during our big winter road trip as well and we had a grand time. This year Stella went home to Malone though so I was solo for this portion of the trip.
 
@@ -18,4 +18,4 @@ The bottom was a bit silly as we ended up layout out at least twice as many scre
 
 We finished it with a final pass of planing and some chamfers and a coat of shellack.
 
-{{ flickr(user="88096431%40N00", set="72177720313109590") }}
+{{ plopalbum(path="content/persblog/2023-12-woodworking-101-72177720313109590.pa.json") }}

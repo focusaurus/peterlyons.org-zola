@@ -25,4 +25,4 @@ Saturday we played in the Solstice parade, which was a lot of waiting. Afterward
 
 Monday we left in the van headed back to Boulder.
 
-{{ flickr(user="88096431%40N00", set="72157645234728466") }}
+{{ plopalbum(path="content/persblog/2014-07-honk-fest-west-2014-72157645234728466.pa.json") }}

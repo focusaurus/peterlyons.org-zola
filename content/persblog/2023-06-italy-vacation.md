@@ -38,5 +38,5 @@ Saturday morning we did the 3.5 hour drive back to the Rome airport. We were gla
 
 ## Photos
 
-{{ flickr(user="88096431%40N00", set="72177720309132103") }}
+{{ plopalbum(path="content/persblog/2023-06-italy-vacation-72177720309132103.pa.json") }}
 

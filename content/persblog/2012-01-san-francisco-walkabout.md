@@ -17,4 +17,4 @@ Then we hit [Ghirardelli Square](http://en.wikipedia.org/wiki/Ghirardelli_Square
 
 After dinner I walked another long walk to a bar called Bottom of the Hill for a pre-Node-Summit live [NodeUp](http://nodeup.com) podcast and open bar party. I was quickly pretty exhausted so I walked north to SoMa and crashed into bed.
 
-{{ flickr(user="88096431%40N00", set="72157628993108793") }}
+{{ plopalbum(path="content/persblog/2012-01-san-francisco-walkabout-72157628993108793.pa.json") }}

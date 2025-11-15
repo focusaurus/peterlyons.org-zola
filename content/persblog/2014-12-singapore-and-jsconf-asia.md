@@ -33,7 +33,7 @@ We were glad to be home and looking forward to Thanksgiving.
 
 Here's my "Best of SE Asia Trip" slideshow.
 
-{{ flickr(user="88096431%40N00", set="72157647341676134") }}
+{{ plopalbum(path="content/persblog/2014-12-singapore-and-jsconf-asia-72157647341676134.pa.json") }}
 
 ### Top quotes of the SE Asia Trip with Shannon Hughes
 

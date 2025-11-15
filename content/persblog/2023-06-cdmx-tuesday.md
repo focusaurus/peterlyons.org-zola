@@ -12,6 +12,6 @@ It was super fun and an amazing show. Afterward I walked home and had some prett
 
 ## Photos (whole trip)
 
-{{ flickr(user="88096431%40N00", set="72177720308909772") }}
+{{ plopalbum(path="content/persblog/2023-06-cdmx-tuesday-72177720308909772.pa.json") }}
 
 

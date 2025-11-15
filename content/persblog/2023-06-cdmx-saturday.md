@@ -24,4 +24,4 @@ T-Mobile gives me enough international mobile data for this trip to be fine. The
 
 Photos from the whole trip:
 
-{{ flickr(user="88096431%40N00", set="72177720308909772") }}
+{{ plopalbum(path="content/persblog/2023-06-cdmx-saturday-72177720308909772.pa.json") }}

@@ -13,4 +13,4 @@ Friday morning I stopped briefly at Epicenter Cafe which is supposedly frequente
 
 Overall it was a super fun and productive visit. It basically alternated awesome work related things with awesome social things and I'm sure I'll have fond memories of this particular trip for a while.
 
-{{ flickr(user="88096431%40N00", set="72157628993108793") }}
+{{ plopalbum(path="content/persblog/2012-01-sf-climbing-and-coding-72157628993108793.pa.json") }}

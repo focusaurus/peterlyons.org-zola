@@ -57,4 +57,4 @@ Sunday was pretty much all packing up from the get-go. We got the van loaded up 
 
 Here are my photos. There are just a few. Tons more good ones on Facebook.
 
-{{ flickr(user="88096431%40N00", set="72157630108856288") }}
+{{ plopalbum(path="content/persblog/2012-06-apogaea-72157630108856288.pa.json") }}

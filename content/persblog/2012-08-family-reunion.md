@@ -3,7 +3,7 @@ title = "Family Reunion"
 slug = "2012/08/family-reunion/"
 date = 2012-08-11T19:11:01.332Z
 +++
-{{ flickr(user="88096431%40N00", set="72157631042356708") }}
+{{ plopalbum(path="content/persblog/2012-08-family-reunion-72157631042356708.pa.json") }}
 
 Last Friday night I departed for our annual family reunion on my Mom's side of the family. I parked at the RTD McCaslin park and ride, got some dinner at Whole Foods, tried the self-serve froyo place in that shopping center, and caught the bus to DIA. I flew a red eye that landed in Newark at 5 AM. On the plane I coded my first NPM module: [writers-digest](https://github.com/focusaurus/writers-digest).
 

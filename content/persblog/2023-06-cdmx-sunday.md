@@ -14,4 +14,4 @@ Later we ended up watching the NBA finals at an Irish Pub and then hanging at a 
 
 Photos from the whole trip:
 
-{{ flickr(user="88096431%40N00", set="72177720308909772") }}
+{{ plopalbum(path="content/persblog/2023-06-cdmx-sunday-72177720308909772.pa.json") }}

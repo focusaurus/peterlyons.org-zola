@@ -3,7 +3,7 @@ title = "March Fourth"
 slug = "2012/08/march-fourth/"
 date = 2012-08-17T07:11:45.320Z
 +++
-{{ flickr(user="88096431%40N00", set="72157631111885404") }}
+{{ plopalbum(path="content/persblog/2012-08-march-fourth-72157631111885404.pa.json") }}
 
 Wow, what a fantastic night getting my dance-like-nobody's-watching on with Mandaline, Jasmine, and Lani to March Fourth Marching Band at the Fox. They are definitely my favorite live act. ♥ M4. That is a definite contender for best show of 2012 for me. Brenda, did you make it?
 
