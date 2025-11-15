@@ -12,6 +12,6 @@ I got a monthly membership at Sessions Climbing and Fitness and have been going 
 
 We did a hike up at Aztec Caves one day which was neat. We went to the art museum and saw the exhibit of Salvador Dali's illustrations of the Divine Comedy and some other nice exhibits. Stella ordered many dishes with mole sauce.
 
-{{ flickr(user="focusaurus" set="72177720304496953") }}
+{{ plopalbum(path="el-paso.pa.json") }}
 
 Overall there were some neat things in El Paso, but it's so extremely dominated by huge, fast multilane roads and highways that even local driving is harrowing. We had to turn on "avoid highways" in google maps the entire time, but even with that, big streets like Mesa were very stressful and chaotic. Glad we visited but unlikely to return.
