@@ -1,0 +1,10 @@
++++
+  transparent = true
+title = "Turkey Cake with Strangers from the Internet"
+date = 2013-03-07T01:16:28.252Z
++++
+So Sunday we had a gathering of friends down in Denver to venture into the culinary realm of Turkey Cake. The host was a former [AirBnB](http://airbnb.com) guest who now has his own long-term apartment on the 16th St mall in Denver. I also had my 2 housemates from Airbnb, 1 housemate from [CraigsList](http://craigslist.org), and a girl who stayed with me via [CouchSurfing ](http://couchsurfing.org). Ages range from too-young-to-drink to middle-aged. It just goes to show you can meet fun and interesting people on the Internet.
+
+So the Turkey Cake is something Chris has made for the past few years. It's pretty brilliant. The base is a turkey patty which is basically meatloaf style. Then there are layers of mashed potatoes, stuffing, cranberries, sweet potatoes, an "icing" layer of mashed potatoes, and topped off with mini marshmellows. It was really delicious and we followed it up with Bavarian chocolate cake. Detailed photos here are below.
+
+{{ plopalbum(path="album-01.pa.json") }}

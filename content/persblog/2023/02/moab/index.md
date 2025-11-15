@@ -1,0 +1,7 @@
++++
+  transparent = true
+title = "Moab"
+date = 2023-02-15T22:54:14Z
++++
+
+From Grand Junction, we drove west to Moab to spend a few days with Clarice and Jim. I had been to Fruita, but never made it all the way to Moab before. It was cool to see those rock formations and hike around a bit. I also learned cribbage which was on my list for this trip. After just a few days, we began the final big multi-day drive heading for Chattanooga, TN.

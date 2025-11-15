@@ -1,4 +1,6 @@
-{% set photos = load_data(path=path) %}
+{% set page_dir = page.relative_path | replace(from="index.md", to="") | trim_end_matches(pat="/") %}
+{% set full_path = "content/" ~ page_dir ~ "/" ~ path %}
+{% set photos = load_data(path=full_path) %}
 <div class="plop-album">
   <figure class="album-viewer">
     <img class="album-photo" src="" alt="">
