@@ -15,12 +15,16 @@
       // Load photos from JSON data
       const photos = {{ photos | json_encode() | safe }};
 
+      // Get the current script's parent album container to scope queries
+      const currentScript = document.currentScript;
+      const albumContainer = currentScript.closest('.plop-album');
+
       let currentIndex = 0;
-      const imgEl = document.querySelector('.album-photo');
-      const captionEl = document.querySelector('.album-caption');
-      const counterEl = document.querySelector('.album-counter');
-      const prevBtn = document.querySelector('.album-prev');
-      const nextBtn = document.querySelector('.album-next');
+      const imgEl = albumContainer.querySelector('.album-photo');
+      const captionEl = albumContainer.querySelector('.album-caption');
+      const counterEl = albumContainer.querySelector('.album-counter');
+      const prevBtn = albumContainer.querySelector('.album-prev');
+      const nextBtn = albumContainer.querySelector('.album-next');
 
       function showPhoto(index) {
         const photo = photos[index];
@@ -54,7 +58,20 @@
         }
       });
 
+      // Keyboard navigation only works when this album is focused/hovered
+      let isActive = false;
+
+      albumContainer.addEventListener('mouseenter', function() {
+        isActive = true;
+      });
+
+      albumContainer.addEventListener('mouseleave', function() {
+        isActive = false;
+      });
+
       document.addEventListener('keydown', function(e) {
+        if (!isActive) return;
+
         if (e.key === 'ArrowLeft' && currentIndex > 0) {
           currentIndex--;
           showPhoto(currentIndex);
