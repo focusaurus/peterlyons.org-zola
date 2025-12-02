@@ -13,6 +13,6 @@ My sleep patterns were pretty disrupted so I spent two dawns out on the beach wa
 
 ![Watching World Cup at the family reunion](https://peterlyons-org.s3.amazonaws.com/photos/hilton_head_2010/013_world_cup.jpg)
 
-{{ album(dirname="hilton_head_2010", id="72157702637945692", text="Photos from the trip are here") }}.
+{{ plopalbum(path="index-72157702637945692.pa.json") }}.
 
 I also bought a bunch of new toys! I got a set of my own climbing gear (a rope and some quickdraws) finally. I had been watching prices and got the REI outlt deal of the day - a 60 meter rope for less than $90 (normally they are in the $225 ballpark). Then, after about 12 years of using Linux on PCs as my primary operating system, I bought a MacBook Pro. However, this is mostly triggered by the fact that the EigenD software that accompanies the (hopefully) awesome [Eigenharp Tau](http://eigenlabs.com) only runs on Mac OS X. So now shipping to me is an Eigenharp, an electronic instrument designed for live performance, which I have been lusting over for many months since they were first announced, and a tricked out MacBook Pro loaded with RAM and a 256 GB solid state disk drive. I'm hoping the conversion to Mac will be mostly smooth, and I think it probably will, but I'll miss the awesomeness of the Debian package format and associated tools infrastructure and a bunch of other things. I'll probably write a post about that on [My Professional Blog](/problog) in a few weeks.

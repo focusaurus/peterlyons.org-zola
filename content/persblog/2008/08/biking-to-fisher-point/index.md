@@ -15,4 +15,4 @@ We enjoyed the nice views and a rest at the top, and then did the fun downhill. 
 
 I headed back to my car. I was so muddy that I had to strip down to my skivvies before getting into the car, and then when I got home had to spend some quality time hosing myself and my gear off. After a nice shower and a quick rest, I finished the evening with the amazing [George St. Pierre](http://en.wikipedia.org/wiki/Georges_St._Pierre) defending his UFC title. Then I drove out to the Fort Valley trailhead, parked my car with Laura Viers playing, and laid on the windshield watching the stars for a while. I saw three shooting stars, including one that seemed really close and had lots of detail visible in the tail. A fantastic Saturday overall.
 
-{{ album(dirname="flagstaff_2008_part_2", id="72157688960959463", text="More photos here") }}.
+{{ plopalbum(path="index-72157688960959463.pa.json") }}.

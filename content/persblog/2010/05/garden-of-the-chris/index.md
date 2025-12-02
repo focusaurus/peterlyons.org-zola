@@ -25,7 +25,7 @@ I was working the rest of the week, so they borrowed my car and did a few local 
 
 ![lamb skewers](https://peterlyons-org.s3.amazonaws.com/photos/spring_2010/130_lamb.jpg)
 
-{{ album(dirname="spring_2010", id="72157702638009812", text="The rest of the photos from Chris and Tina's visit are here") }}.
+{{ plopalbum(path="index-72157702638009812.pa.json") }}.
 
 I took them to the airport stoopid early Saturday and then met up with Michale for the [Boulder Creek Festival](http://www.bceproductions.com/boulder-creek-festival/). It's really fun. We love watching the little kids in the giant rubber band kid launchers (they had 2 or 3 of them spread around). On Saturday I got two compliments on my trusty "plain text" white T-shirt. Then a big rainstorm hit just as we came upon Lewis and Nancy by chance. So we hunkered down under the library overpass waiting out the worst of the rain. It did last a good long while despite Lewis's frequent mentions that it would pass in half an hour.
 
@@ -37,6 +37,6 @@ Today we ended up having a big yummy pancakes and bacon breakfast and then again
 
 (In case you missed it, there's a dude on a rope swing in that photo)
 
-The {{ album(dirname="summer_2010", id="72157675783756307", text="rest of the Boulder Creek Festival photos are here") }}.
+The {{ plopalbum(path="index-72157675783756307.pa.json") }}.
 
 As a side note we've been watching season 3 of The Office on netflix instant. They've really hit their stride now and the episodes are hysterical.

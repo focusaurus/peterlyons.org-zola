@@ -13,5 +13,5 @@ Today I mostly stayed home and rested up and only coded a little bit, sipping on
 
 I went through all of the Academy Award winners in the most important categories going back to 1990 or so and am working my way through the list. I recently watched Moonlight and Spotlight both of which were fantastic.
 
-{{ album(id="72157687300615032", text="Photo Album here") }}.
+{{ plopalbum(path="index-72157687300615032.pa.json") }}.
 

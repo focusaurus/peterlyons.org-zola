@@ -19,4 +19,4 @@ Sunday evening back in Boulder I met up with some friends for a pot luck picnic 
 
 Tonight is my little "You Film Fest" party #3 where we're going to watch some [Ignite Boulder](http://igniteboulder.com) talks. Then Michale is off to Seattle to visit her peeps this weekend and next week I'm headed to Vermont to visit my peeps.
 
-{{ album(dirname="summer_2010", id="72157675783756307", text="Photos from some of these events are here") }}.
+{{ plopalbum(path="index-72157675783756307.pa.json") }}.

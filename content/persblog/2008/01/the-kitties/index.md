@@ -17,6 +17,6 @@ I took off Friday to go skiing at Winter Park with the whole crew: Les, Anne, El
 
 Afterward Bill made us another delicious dinner.  Saturday I had lunch downtown in the Pearl St pedestrian mall area.  It was unseasonably warm - 60 degrees, which was nice.  Today I went again to the Boulder Rock Gym and did some nice climbing and exercising.  It's a really nice big gym.
 
-For the full set of photos so far, {{ album(dirname="boulder_2007", id="72157702643498712", text="click here") }}
+For the full set of photos so far, {{ plopalbum(path="index-72157702643498712.pa.json") }}
 
 Tonight Nancy made us a nice chicken salad and we watched Eastern Promises.

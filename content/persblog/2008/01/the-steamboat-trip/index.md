@@ -31,4 +31,4 @@ I ended up skiing until past 3:30, which is somewhat unusual, before taking the 
 
 I was surely relieved to arrive back home in Boulder and scratch my puddy tats. Note to self: no driving in the mountains at night.
 
-More photos {{ album(dirname="boulder_2007", id="72157702643498712", text="here") }}
+More photos {{ plopalbum(path="index-72157702643498712.pa.json") }}

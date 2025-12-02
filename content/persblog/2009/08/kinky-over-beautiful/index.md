@@ -25,4 +25,4 @@ Then Pat and I went back to the Mission district and found a Mexican place still
 
 This morning I did another run in Golden Gate Park. I saw disco roller skating, which I absolutely adore, as well as people setting up a sound system for outdoor swing dancing. Then Ed and I went back to the People's Cafe for food and on to a quick driving tour of Pacific Heights and wandering around Fisherman's Warf briefly. Then off to the airport for the short and pleasant flight back home.
 
-{{ album(dirname="san_francisco_aug_2009", id="72157677938499468", text="The rest of the photos are here") }}.
+{{ plopalbum(path="index-72157677938499468.pa.json") }}.

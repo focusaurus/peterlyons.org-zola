@@ -34,4 +34,4 @@ Trip statistics:
 *   Packages shipped: 24
 *   Craigslist victories: 1
 
-The rest of the {{ album(dirname="thanksgiving_2009", id="72157675783959947", text="photos are here") }}.
+The rest of the {{ plopalbum(path="index-72157675783959947.pa.json") }}.

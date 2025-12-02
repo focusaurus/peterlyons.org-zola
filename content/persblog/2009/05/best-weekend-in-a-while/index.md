@@ -7,4 +7,4 @@ So overall starting with the Brazilian Batteria on Thursday and concluding today
 
 ![Walker Ranch Loop Trail](https://peterlyons-org.s3.amazonaws.com/photos/spring_2009/048_walker_ranch_pl.jpg)
 
-More photos{{ album(dirname="spring_2009", id="72157706023128174", text="here") }}.
+More photos{{ plopalbum(path="index-72157706023128174.pa.json") }}.

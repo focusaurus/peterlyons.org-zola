@@ -13,4 +13,4 @@ So last Thursday we got about a foot of snow here in Boulder. Of course, this be
 
 I bought a membership to the rock gym so I'm planning to go at least three times a week or so. Andrew and I are now planning next week's road trip and looking forward to that.
 
-Some photos from the Banjo Billy Bus are at the end of the gallery{{ album(dirname="winter_2008", id="72157675784181537", text="here") }}.
+Some photos from the Banjo Billy Bus are at the end of the gallery{{ plopalbum(path="index-72157675784181537.pa.json") }}.

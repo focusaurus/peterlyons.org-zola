@@ -23,4 +23,4 @@ We debated whether to eat in Salt Lake or head back to Park City and chose the l
 
 This week I went into overdrive at work as we're now at the meat of my first major deliverable project on new functionality.  I did stop Wednesday to go back to the rock gym which is so fun.
 
-{{ album(dirname="park_city_2008", id="72157677958337888", text="More photos here.") }}
+{{ plopalbum(path="index-72157677958337888.pa.json") }}

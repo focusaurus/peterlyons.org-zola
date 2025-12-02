@@ -19,4 +19,4 @@ This evening I had dinner at home with Rebecca and Paul, followed by some packin
 
 Tomorrow morning I'll head out to visit Marc in Jacksonville, FL. Oh, and it looks like over this weekend I need to decide which of three major projects at work I'd like to be involved in primarily over the next year or so. Hmm.
 
-{{ album(dirname="los_angeles_june_2008", id="72157677938873338", text="More photos here.") }}
+{{ plopalbum(path="index-72157677938873338.pa.json") }}

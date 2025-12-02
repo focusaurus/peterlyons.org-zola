@@ -15,4 +15,4 @@ Monday I went out to dim sum for lunch with my two main US-based QA engineers, B
 
 ![Costanza wallets](https://peterlyons-org.s3.amazonaws.com/photos/california_january_2011/041_costanza_wallets.jpg)
 
-The {{ album(dirname="california_january_2011", id="72157702636802172", text="rest of the photos from the trip are here") }}.
+The {{ plopalbum(path="index-72157702636802172.pa.json") }}.

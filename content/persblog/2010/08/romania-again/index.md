@@ -9,4 +9,4 @@ The HP Cluj office has grown! Last time they had probably around 15 total employ
 
 ![after a jog](https://peterlyons-org.s3.amazonaws.com/photos/romania_august_2010/050_cluj.jpg)
 
-We've got our first and only social outgoing scheduled for tomorrow afternoon, so I'll be posting about that sometime soon. {{ album(dirname="romania_august_2010", id="72157702637705552", text="Photos from the Romania trip are here") }}.
+We've got our first and only social outgoing scheduled for tomorrow afternoon, so I'll be posting about that sometime soon. {{ plopalbum(path="index-72157702637705552.pa.json") }}.

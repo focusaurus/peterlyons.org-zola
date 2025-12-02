@@ -31,4 +31,4 @@ So that concludes the Edzilla visit and next weekend Chris is here.
 
 ![](https://peterlyons-org.s3.amazonaws.com/photos/park_city_2008/092_deer_valley_lift_shadow.jpg)
 
-{{ album(dirname="park_city_2008", id="72157677958337888", text="More photos here.") }}
+{{ plopalbum(path="index-72157677958337888.pa.json") }}

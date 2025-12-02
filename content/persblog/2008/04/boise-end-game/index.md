@@ -7,7 +7,7 @@ OK folks, it's just about time to pack up camp and move on. I've mostly gotten i
 
 Tomorrow night I'm headed to another Boise Philharmonic concert, and then Saturday morning I drive to Bend, Oregon for phase six!
 
-The {{ album(dirname="boise_2008", id="72157706023640134", text="Boise photos are here") }}.
+The {{ plopalbum(path="index-72157706023640134.pa.json") }}.
 
 Here's my favorite bouldering route at the local rock gym. Gratuitous pull-ups included at no extra charge.
 

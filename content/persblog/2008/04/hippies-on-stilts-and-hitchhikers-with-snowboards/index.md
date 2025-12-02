@@ -31,4 +31,4 @@ On my way out of the parking lot a guy with a snowboard was thumbing for a ride.
 
 Not content to stuff my feet into just a single type of awkward and uncomfortable footwear all day, when I got home I headed to the local climbing gym, got my month pass, and climbed a bit. It's mostly bouldering and the non-climbing gym equipment is a bit lacking, but it'll do nicely.
 
-{{ album(dirname="bend_2008_part_1", id="72157677938986358", text="The rest of the photos are here") }}
+{{ plopalbum(path="index-72157677938986358.pa.json") }}

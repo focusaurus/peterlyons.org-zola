@@ -51,4 +51,4 @@ Overall the trip worked out really well. We were a bit disappointed with Ambergr
 
 But there was no time to rest because we got back late Tuesday night and Wednesday morning the Skarecki family showed up for our ski adventure!
 
-The rest of the {{ album(dirname="belize_2010", id="72157704497758681", text="Belize Trip Photos are here") }}.
+The rest of the {{ plopalbum(path="index-72157704497758681.pa.json") }}.

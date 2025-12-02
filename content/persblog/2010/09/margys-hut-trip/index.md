@@ -15,4 +15,4 @@ After the hike down we dipped our weary feet in the ice cold stream water. We st
 
 ![Stopping for a scenic overlook](https://peterlyons-org.s3.amazonaws.com/photos/margys_hut_trip_sept_2010/036_mk_pl_view_spot.jpg)
 
-The rest of the {{ album(dirname="margys_hut_trip_sept_2010", id="72157704496575791", text="photos are here") }}.
+The rest of the {{ plopalbum(path="index-72157704496575791.pa.json") }}.

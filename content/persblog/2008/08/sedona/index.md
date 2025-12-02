@@ -7,4 +7,4 @@ Today I went to the Navajo Arts and Culture festival at the Museum of Northern A
 
 ![sedona](https://peterlyons-org.s3.amazonaws.com/photos/flagstaff_2008_part_2/030_sedona.jpg)
 
-The rest of the {{ album(dirname="flagstaff_2008_part_2", id="72157688960959463", text="photos are here") }}.
+The rest of the {{ plopalbum(path="index-72157688960959463.pa.json") }}.

@@ -9,6 +9,6 @@ Today I went and climbed [bihedral](http://www.mountainproject.com/v/colorado/bo
 
 ![me climbing in Boulder Canyon](https://peterlyons-org.s3.amazonaws.com/photos/spring_2009/019_bihedral.jpg)
 
-More Spring 2009 photos are {{ album(dirname="spring_2009", id="72157706023128174", text="here") }}.
+More Spring 2009 photos are {{ plopalbum(path="index-72157706023128174.pa.json") }}.
 
 You might find this hard to believe, but I also managed to have two more house purchases fall through in failure. Sigh. It's basically back to the drawing board. I certainly learned a bit more about the whole negotiation process.

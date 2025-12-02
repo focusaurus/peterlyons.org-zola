@@ -88,4 +88,4 @@ Thursday Marc and I took off work to try the beach again. We had much better wea
 
 Saturday we piled all four of us into Marc's mini cooper and drove up to Savannah. This saved me from a bus ride, which was great. We met up with my folks for Bar-B-Que at Wall's - a small joint in a tiny alley. Then we left the Skareckis to explore Savannah while we hit the road for Hilton Head Island. Sadly it started to rain immediately, which I'm sure put a damper on the Savannah sight seeing.
 
-{{ album(dirname="jacksonville_2008", id="72157706023434324", text="Check out the rest of the photos, including adorable kitten shots!") }}
+{{ plopalbum(path="index-72157706023434324.pa.json") }}

@@ -21,4 +21,4 @@ Sibiu is a walled fortress city and just by sheer chance there was a large Medie
 
 Then we made again the long journey back to Cluj, but this time except for one or two brief backups, there was no traffic, so George was zipping along between 120 and 160 kph most of the way, taking the curves like a race driver. We got back to Cluj shortly after midnight. I certainly wasn't expecting such an adventure! I had just a few hours to rest and shower before I had to head to the airport for my Cluj -> Bucharest -> London -> Denver journey home.
 
-{{ album(dirname="romania_august_2010", id="72157702637705552", text="The rest of the photos from the Romania trip are here") }}.
+{{ plopalbum(path="index-72157702637705552.pa.json") }}.

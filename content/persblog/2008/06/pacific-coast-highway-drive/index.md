@@ -7,4 +7,4 @@ Well, I can officially say that the green machine has made it all the way across
 
 ![](https://peterlyons-org.s3.amazonaws.com/photos/drive_to_sunnyvale_2008/027_redwood.jpg)
 
-{{ album(dirname="drive_to_sunnyvale_2008", id="72157677938887778", text="More photos here.") }}
+{{ plopalbum(path="index-72157677938887778.pa.json") }}

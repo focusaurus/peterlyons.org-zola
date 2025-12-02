@@ -13,4 +13,4 @@ Today Andrew and I went to an introductory Vinyasa 101 class followed by lunch a
 
 ![Multnomah Falls](https://peterlyons-org.s3.amazonaws.com/photos/portland_spring_2009/049_multnomah_falls.jpg)
 
-Tonight we biked to Dot's Cafe in the Clinton District for a very tasty meal. Pictures so far are {{ album(dirname="portland_spring_2009", id="72157677938605468", text="here") }}.
+Tonight we biked to Dot's Cafe in the Clinton District for a very tasty meal. Pictures so far are {{ plopalbum(path="index-72157677938605468.pa.json") }}.

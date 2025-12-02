@@ -9,4 +9,4 @@ We scrambled back down and had some yummy breakfast at the trail head of eggs, p
 
 ![Tremont Mountain](https://peterlyons-org.s3.amazonaws.com/photos/spring_2009/052_tremont_sunrise_hike.jpg)
 
-{{ album(dirname="spring_2009", id="72157706023128174", text="More photos here.") }}
+{{ plopalbum(path="index-72157706023128174.pa.json") }}
