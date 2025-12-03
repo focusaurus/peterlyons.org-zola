@@ -2,10 +2,12 @@ img,
 canvas,
 iframe,
 video,
+figure,
 svg,
 select,
 textarea {
   max-width: 100%;
+  margin: auto;
 }
 .overflow-container {
   overflow-x: scroll;

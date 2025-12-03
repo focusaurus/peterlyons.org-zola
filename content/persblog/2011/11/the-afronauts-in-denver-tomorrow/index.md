@@ -1,0 +1,6 @@
++++
+  transparent = true
+title = "The Afronauts in Denver tomorrow"
+date = 2011-11-18T11:00:21.000Z
++++
+Check out [this rave review](http://www.examiner.com/music-scene-in-denver/the-afronauts-ride-along-on-a-funk-party-rocket) of [The Afronauts](http://afronautsband.com).  We're playing tomorrow night at Unit E Gallery in Denver at 11pm.  Find us on [Facebook](http://facebook.com) for details.

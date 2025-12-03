@@ -1,0 +1,6 @@
++++
+  transparent = true
+title = "Charlie Hunter"
+date = 2010-09-10T11:29:15.000Z
++++
+Saw [Charlie Hunter](http://www.charliehunter.com) tonight at the Fox Theatre in Boulder. He had Mike Williams playing bass trumpet. I've seen a lot of strange instruments, so it's pretty rare for me to hear something new, but I can honestly say I had never heard a bass trumpet. I could tell it was bigger than a flugelhorn though. The drummer Eric Kalb was sounding very good, but overall I didn't like the show very much. Mike played a lot of quasi-random isolated notes and flubs and was short on lyrical lines.
