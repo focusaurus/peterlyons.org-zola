@@ -3,9 +3,7 @@
 }
 
 .album-viewer {
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
+  display: block;
 }
 
 .album-main {
@@ -21,7 +19,7 @@
 }
 
 .album-caption {
-  margin-top: 0.5em;
+  margin-top: 1em;
   text-align: center;
   font-style: italic;
 }
@@ -31,12 +29,14 @@
   justify-content: center;
   align-items: center;
   gap: 1em;
+  margin-top: 1em;
 }
 
 .album-btn {
-  padding: 0.5em 1em;
+  padding: 0.25em 1em;
   cursor: pointer;
   border: none;
+  line-height: 1.2;
 }
 
 .album-btn:hover:not(:disabled) {
