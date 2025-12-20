@@ -1,5 +1,5 @@
 +++
-  transparent = true
+transparent = true
 title = "Turris Omnia"
 date = 2019-03-25T02:01:58Z
 +++
