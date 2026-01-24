@@ -2,7 +2,7 @@
 title = "Drawers of Doom"
 date = 2026-01-24T16:44:44Z
 transparent = true
-draft = true
+draft = false
 +++
 
 I have this notion lodged in my brain. Most furniture is large, heavy, lacks handles, and thus is difficult to rearrange or move to another house. It usually requires 2 people to move and navigating stairs, doors, and vehicles are all a major pain. The whole thing is prone to injury from straining your back to banging your hand on a door frame to falling down stairs. And I have the idea of most of these issues being solved if we just made our furniture more modular and build it out of human-size components. And beyond that, it seems like you could get pretty far in terms of cabinets, shelving, storage, couches, benches, beds by designing around a cube no bigger than a microwave oven and connecting those together like Lego bricks. 
@@ -75,6 +75,7 @@ Hell no! We loaded and unloaded hundreds of pounds of materials and tools betwee
 - maker space palm sanders were ruined by members sanding with the hook and loop directly multiple times
 - maker space sanding discs are a huge disorganized mess
 - maker space was generally crowded over the holidays and this project being gigantic did not help
+- maker space flush trim router bit was broken
 - someone left the maker space miter saw at like 85 degrees and I didn't notice until I had cut a huge batch of drawer walls.
   - this didn't end up really being an actual problem, but kind of a dick move to leave it like that if you ask me, even admitting it's my responsibility to confirm. But like, leave it at 60 or something more obvious.
 
@@ -90,8 +91,11 @@ Hell no! We loaded and unloaded hundreds of pounds of materials and tools betwee
 - Workbench setup, clamp setup, body & tool positioning are everything. If I have exactly the same setup as on youtube, I'm alright. But if I don't and I need to invent my own, it's going to be a disaster. So much holding work by hand, cantilevering, work moving while being cut, etc.
 - I got a lot more practice changing router bits and dealing with the collet wrench contortion.
 - When marking some of the layout lines, using a combo square like Jer does on the video would have been much faster. Instead I was measing 2 points and connecting with a ruler.
+- I had no idea initially how to set my router bit to a specific prescribed depth. After a bunch of futzing with test cuts, I learned to mark a piece of scrap which I can then lay against the base and match the line
 
 
-## Quit your winging
+## Quit your wingeing
 
 ![](https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/sandor-clegane-1920.jpg?w=1200)
+
+Actually they came out great!
