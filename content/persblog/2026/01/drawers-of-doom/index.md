@@ -3,6 +3,8 @@ title = "Drawers of Doom"
 date = 2026-01-24T16:44:44Z
 transparent = true
 draft = false
+[extra]
+image = "https://photos.peterlyons.com/2026/2026-01-26-01KFXTPWS0T1XS1EB2DG99W2FV.2048.jpg"
 +++
 
 I have this notion lodged in my brain. Most furniture is large, heavy, lacks handles, and thus is difficult to rearrange or move to another house. It usually requires 2 people to move and navigating stairs, doors, and vehicles are all a major pain. The whole thing is prone to injury from straining your back to banging your hand on a door frame to falling down stairs. And I have the idea of most of these issues being solved if we just made our furniture more modular and built it out of human-size components. And beyond that, it seems like you could get pretty far in terms of cabinets, shelving, storage, couches, benches, beds by designing around a cube no bigger than a microwave oven and connecting those together like Lego bricks. 
