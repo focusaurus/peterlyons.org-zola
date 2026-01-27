@@ -5,13 +5,13 @@ transparent = true
 draft = false
 +++
 
-I have this notion lodged in my brain. Most furniture is large, heavy, lacks handles, and thus is difficult to rearrange or move to another house. It usually requires 2 people to move and navigating stairs, doors, and vehicles are all a major pain. The whole thing is prone to injury from straining your back to banging your hand on a door frame to falling down stairs. And I have the idea of most of these issues being solved if we just made our furniture more modular and build it out of human-size components. And beyond that, it seems like you could get pretty far in terms of cabinets, shelving, storage, couches, benches, beds by designing around a cube no bigger than a microwave oven and connecting those together like Lego bricks. 
+I have this notion lodged in my brain. Most furniture is large, heavy, lacks handles, and thus is difficult to rearrange or move to another house. It usually requires 2 people to move and navigating stairs, doors, and vehicles are all a major pain. The whole thing is prone to injury from straining your back to banging your hand on a door frame to falling down stairs. And I have the idea of most of these issues being solved if we just made our furniture more modular and built it out of human-size components. And beyond that, it seems like you could get pretty far in terms of cabinets, shelving, storage, couches, benches, beds by designing around a cube no bigger than a microwave oven and connecting those together like Lego bricks. 
 
 So when I came across a Jer Woodshop youtube video building shop modular shop cabinets, I was fascinated. Here's the main build video:
 
 {{ youtube(id="suCVWmYdvhI") }}
 
-and here's the "nerd-out" video where he talks through the reasoning behind most of the design decisions and how the design evolved over multiple rounds of building these.
+and here's the "nerd-out" video where he talks through the reasoning behind most of the design decisions, dimensions, and how the design evolved over multiple rounds of building these.
 
 {{ youtube(id="42gUDGpvS_o") }}
 
@@ -33,13 +33,13 @@ I should have brought that to mind when choosing this project, but alas I did no
 
 ## Purchasing plywood
 
-I decided to try a real lumber yard instead of a big box store this time. Mostly out of curiosity. So I got 2 sheets of 3/4" plywood for the cabinets and 2 5'x5' sheets of 3/8" baltic birch for the drawers. The experience at the lumber yard was terrible for a hobbyist. Nothing is really labeled. There are absolutely no prices. There's not much light. It's set up for contractors that know exactly what they need and want huge quantities loaded onto flatbed trucks. But we got some wood without really knowing what it was or how much it would cost before we bought it.
+Mostly out of curiosity, I decided to try a real lumber yard instead of a big box store this time. So I got 2 sheets of 3/4" plywood for the cabinets and 2 5'x5' sheets of 3/8" baltic birch for the drawers. The experience at the lumber yard was terrible for a hobbyist. Nothing is really labeled. There are absolutely no prices. There's not much light. It's set up for contractors that know exactly what they need and want huge quantities loaded onto flatbed trucks. But we got some wood without really knowing what it was or how much it would cost before we bought it.
 
 ## Cabinets, holes, slots
 
 The main cabinet bodies were done on the table saw and mostly went fine.
 
-Each cabinet needed a lot of holes for the modular interconnecting bolts. Each hole needed a pilot, a bolt hole, and a counterbore. All together this was 630 drill press operations. I made a spreadsheet to determine that. I didn't really figure things like "we will be standing at the drill press for something like 6 straight hours doing this". Nor things like, the drill press will break and we will have to repair it to continue.
+Each cabinet needed a lot of holes for the modular interconnecting bolts. Each hole needed a pilot, a bolt hole, and a counterbore. All together this was 630 drill press operations. I made a spreadsheet to determine that. I didn't really figure things like "we will be standing at the drill press for something like 6 straight hours doing this". Nor things like "the drill press will break and we will have to repair it to continue."
 
 The slots were the main difficulty for the cabinets. The video presented 2 methods: table saw dado stack or palm router with lots of clamping of a straight edge. I really wanted to do the dado method, but my maker space sawstop lacked both a special dado brake cartridge and a throat plate for a dado stack.  We wasted a bit of time and money chasing after that before finally giving up and cutting the slots with a router.
 
@@ -53,7 +53,7 @@ If I make any more of these, I will cut the top and bottom of each slot on the r
 
 {{ figureplop(url="https://photos.peterlyons.com/2025/2025-12-26-01KDDJS2906M4H5D3ZS8SMJ8JZ.2048.jpg" caption="glue up layer 2 of the drawer jig with Laura Kampf inspired signage") }}
 
-The plans and video build drawers with help of a large jig. So I made that and it mostly worked fine. But the drawer construction process is difficult. In the video, he keeps re-orienting the drawer in a vise. My first drawer failed and I suspect the reason was the clamps holding the jig in place on the bottom moved slightly during these re-vising and the walls were off square and thus the drawer would not fit in the cabinet. I eventually repaired it by sawing off one of the back corners, but from then on we kept our jig on saw horses in the normal orientation and dealt with brad nails by me lying on my back and firing them in from below.
+The plans and video build the drawers with use of a large jig. So I made that and it mostly worked fine. But the drawer construction process is difficult. In the video, he keeps re-orienting the drawer in a vise. My first drawer failed and I suspect the reason was the clamps holding the jig in place on the bottom moved slightly during these re-vising and the walls were off square and thus the drawer would not fit in the cabinet. I eventually repaired it by sawing off one of the back corners, but from then on we kept our jig on saw horses in the normal orientation and dealt with brad nails by me lying on my back and firing them in from below.
 
 The brad nails had a very high rate of poking out the side. The process we had was a recipe for failure. Having the gigantic construction nail gun instead of a smaller brad nailer means if the back of the gun, which is like 18" from the tip, is 1/8" off to the side, the nail is going to poke through the side of the material.
 
@@ -104,12 +104,15 @@ Ha ha, no. You can get a steel tool chest at the hardware store for $500. The ma
 - When marking some of the layout lines, using a combo square like Jer does on the video would have been much faster. Instead I was measing 2 points and connecting with a ruler.
 - I had no idea initially how to set my router bit to a specific prescribed depth. After a bunch of futzing with test cuts, I learned to mark a piece of scrap which I can then lay against the base and match the line
 - Adding small roundovers to all the edges is really nice. I got a set of bits from 2/16 to 5/16 for this project and will use them a lot. It's easy to do and makes a big difference in look and feel.
+- If all the extra tools you need to bring to the maker space do not fit in a single extra large plastic tote, maybe reconsider doing said project
 
 ## Quit your wingeing
 
 ![](https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/sandor-clegane-1920.jpg?w=1200)
 
 Actually they came out great!
+
+{{ figureplop(url="https://photos.peterlyons.com/2026/2026-01-26-01KFXTPWS0T1XS1EB2DG99W2FV.2048.jpg" caption="5 cabinets assembled with drawers") }}
 
 ## Build photo album
 
