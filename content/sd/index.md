@@ -34,5 +34,7 @@ informal
 
 ## Is it really on this week?
 
-2026-03-01: On
-2026-03-08: On
+| Date | Status |
+| --- | --- |
+| 2026-03-01 | On |
+| 2026-03-08 | On |
