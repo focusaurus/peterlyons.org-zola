@@ -24,13 +24,14 @@ If we've sent you a link to this page, then you are invited.
 
 Just yourselves. You are welcome to bring food or drinks to share if you would enjoy doing so, but it's very much optional.
 
+## Formality
+
+informal
+
 ## Key Level
 
 low
 
-## Formality
-
-informal
 
 ## Is it really on this week?
 
@@ -38,3 +39,13 @@ informal
 | --- | --- |
 | 2026-03-01 | On |
 | 2026-03-08 | On |
+
+<style>
+th {
+  font-weight: bold;
+}
+
+td {
+  padding-right: 3rem;
+}
+</style>
