@@ -39,6 +39,13 @@ low
 | --- | --- |
 | 2026-03-01 | On |
 | 2026-03-08 | On |
+| 2026-03-22 | On: Spring Equinox |
+| 2026-05-03 | On: Beltane |
+| 2026-06-21 | On: Summer Solstice |
+| 2026-08-02 | On: Lammas (Stella's Birthday Party) |
+| 2026-09-20 | On: Fall Equinox (Pete's Birthday Party) |
+| 2026-11-01 | On: Day of the Dead |
+| 2026-12-20 | On: Yule (Brinner)  |
 
 <style>
 th {
