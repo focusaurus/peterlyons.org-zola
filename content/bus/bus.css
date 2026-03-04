@@ -1,14 +1,26 @@
 div.timetable {
   display: grid;
-span.from {
+  grid-template-columns: auto auto auto;
+  gap: 0 0.5em;
+}
+
+span.th {
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+span.route-name {
+  color: #555;
+}
+
+span.time.depart {
   color: blue;
 }
 
-span.to {
+span.time.arrive {
   color: orange;
-}
-
-  grid-template-columns: repeat(4, 1fr);
 }
 
 .route h1 {

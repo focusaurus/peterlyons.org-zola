@@ -13,21 +13,22 @@
   <span class="filter day sunday" onclick="filterDay('sunday');">Sunday</span>
 </section>
 {% set routes = load_data(path="content/bus/routes.json") %}
-{% for k, route in routes %}
-<section class="route {{route.direction}} {{route.day}} {% if route.day != 'weekday' or route.direction != 'east' %}hide{% endif %}">
-  {% set from = "Louisville" %}
-  {% set to = "Denver" %}
-  {% if route.direction == "west" %}
-  {% set from = "Denver"%}
-  {% set to = "Louisville" %}
-  {% endif %}
-  <h1>{{route.title}} to {{to}} {{route.day}}</h1>
+{% for k, timetable in routes %}
+{% set from = "Louisville" %}
+{% set to = "Denver" %}
+{% if timetable.direction == "west" %}
+{% set from = "Denver"%}
+{% set to = "Louisville" %}
+{% endif %}
+<section class="route {{timetable.direction}} {{timetable.day}} {% if timetable.day != 'weekday' or timetable.direction != 'east' %}hide{% endif %}">
   <div class="timetable">
-    {% for time in route.departTimes %}
-    <span class="time depart">{{time}}</span>
-    <span class="from">{{from}}</span>
-    <span class="time arrive">{{route.arriveTimes[loop.index0]}}</span>
-    <span class="to">{{to}}</span>
+    <span class="th">Route</span>
+    <span class="th">Depart {{from}}</span>
+    <span class="th">Arrive {{to}}</span>
+    {% for trip in timetable.trips %}
+    <span class="route-name">{{trip.route}}</span>
+    <span class="time depart">{{trip.depart}}</span>
+    <span class="time arrive">{{trip.arrive}}</span>
     {% endfor %}
   </div>
 </section>
