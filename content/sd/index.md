@@ -37,8 +37,9 @@ low
 
 | Date | Status |
 | --- | --- |
-| 2026-03-01 | On |
-| 2026-03-08 | On |
+| 2026-02-22 | On: FIRST! |
+| 2026-03-01 | On: nobody showed up! |
+| 2026-03-08 | On: Logan is in town! |
 | 2026-03-22 | On: Spring Equinox |
 | 2026-05-03 | On: Beltane |
 | 2026-06-21 | On: Summer Solstice |
