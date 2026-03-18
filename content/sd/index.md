@@ -1,5 +1,7 @@
 +++
-title= "Sunday Dinner"
+title = "Sunday Dinner"
+[extra]
+image = "https://img.freepik.com/premium-vector/friends-gathering-dining-table-with-wine-food-happy-young-people-eating-celebrating-holiday-talking-relaxing-together-weekend-flat-vector-illustration-isolated-white-background_198278-19180.jpg?w=2000"
 +++
 
 # Sunday Dinner at Pete & Stella's
@@ -40,6 +42,7 @@ low
 | 2026-02-22 | On: FIRST! |
 | 2026-03-01 | On: nobody showed up! |
 | 2026-03-08 | On: Logan is in town! |
+| 2026-03-15 | On: Amy! |
 | 2026-03-22 | On: Spring Equinox |
 | 2026-05-03 | On: Beltane |
 | 2026-06-21 | On: Summer Solstice |
