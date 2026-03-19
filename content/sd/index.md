@@ -10,6 +10,8 @@ image = "https://photos.peterlyons.com/2026/2026-03-18-01KM11WCXRS80NJKKD6A162DX
 
 A gathering of friends and family.
 
+![](https://photos.peterlyons.com/2026/2026-03-18-01KM11WCXRS80NJKKD6A162DX3.2048.png)
+
 ## When
 
 Sundays at 2:00 PM. Sundays nearest a Solstice are extra celebrations of the seasons.
