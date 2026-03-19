@@ -1,7 +1,7 @@
 +++
 title = "Sunday Dinner"
 [extra]
-image = "https://img.freepik.com/premium-vector/friends-gathering-dining-table-with-wine-food-happy-young-people-eating-celebrating-holiday-talking-relaxing-together-weekend-flat-vector-illustration-isolated-white-background_198278-19180.jpg?w=2000"
+image = "https://photos.peterlyons.com/2026/2026-03-18-01KM11WCXRS80NJKKD6A162DX3.2048.png"
 +++
 
 # Sunday Dinner at Pete & Stella's
