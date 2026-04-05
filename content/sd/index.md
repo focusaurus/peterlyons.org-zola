@@ -45,7 +45,10 @@ low
 | 2026-03-01 | On: nobody showed up! |
 | 2026-03-08 | On: Logan is in town! |
 | 2026-03-15 | On: Amy! |
-| 2026-03-22 | On: Spring Equinox |
+| 2026-03-22 | On: Spring Equinox. Spike and Sandee! |
+| 2026-03-29 | On:  Amy and Ted! |
+| 2026-04-05 | **OFF**: Easter Sunday |
+| 2026-04-12 | On: |
 | 2026-05-03 | On: Beltane |
 | 2026-06-21 | On: Summer Solstice |
 | 2026-08-02 | On: Lammas (Stella's Birthday Party) |
