@@ -49,8 +49,11 @@ low
 | 2026-03-29 | On:  Amy and Ted! |
 | 2026-04-05 | **OFF**: Easter Sunday |
 | 2026-04-12 | On: |
+| 2026-04-19 | On: |
+| 2026-04-26 | On: |
 | 2026-05-03 | On: Beltane |
 | 2026-05-10 | **Off**: Mother's Day |
+| 2026-05-17 | On: |
 | 2026-06-21 | On: Summer Solstice |
 | 2026-08-02 | On: Lammas (Stella's Birthday Party) |
 | 2026-09-20 | On: Fall Equinox (Pete's Birthday Party) |
