@@ -50,7 +50,7 @@ low
 | 2026-04-05 | **OFF**: Easter Sunday |
 | 2026-04-12 | On: |
 | 2026-04-19 | On: |
-| 2026-04-26 | On: |
+| 2026-04-26 | On: Hot Ones Cauliflower! |
 | 2026-05-03 | On: Beltane |
 | 2026-05-10 | **Off**: Mother's Day |
 | 2026-05-17 | On: |
