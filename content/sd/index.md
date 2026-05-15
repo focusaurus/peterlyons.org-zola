@@ -53,8 +53,13 @@ low
 | 2026-04-26 | On: Hot Ones Cauliflower! |
 | 2026-05-03 | On: Beltane |
 | 2026-05-10 | **Off**: Mother's Day |
-| 2026-05-17 | On: |
+| 2026-05-17 | **Off**: |
+| 2026-05-24 | TBD |
+| 2026-05-31 | TBD |
+| 2026-06-07 | TBD |
+| 2026-06-14 | TBD |
 | 2026-06-21 | On: Summer Solstice |
+| 2026-06-28 | TBD |
 | 2026-08-02 | On: Lammas (Stella's Birthday Party) |
 | 2026-09-20 | On: Fall Equinox (Pete's Birthday Party) |
 | 2026-11-01 | On: Day of the Dead |
