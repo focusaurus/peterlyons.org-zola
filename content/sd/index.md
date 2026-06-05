@@ -47,15 +47,15 @@ low
 | 2026-03-15 | On: Amy! |
 | 2026-03-22 | On: Spring Equinox. Spike and Sandee! |
 | 2026-03-29 | On:  Amy and Ted! |
-| 2026-04-05 | **OFF**: Easter Sunday |
+| 2026-04-05 | Off: Easter Sunday |
 | 2026-04-12 | On: |
 | 2026-04-19 | On: |
 | 2026-04-26 | On: Hot Ones Cauliflower! |
 | 2026-05-03 | On: Beltane |
-| 2026-05-10 | **Off**: Mother's Day |
-| 2026-05-17 | **Off**: |
-| 2026-05-24 | **Off**: malaise |
-| 2026-05-31 | **Off**: ennui |
+| 2026-05-10 | Off: Mother's Day |
+| 2026-05-17 | Off: |
+| 2026-05-24 | Off: malaise |
+| 2026-05-31 | Off: ennui |
 | 2026-06-07 | On: Bill & Kay! |
 | 2026-06-14 | TBD |
 | 2026-06-21 | On: Summer Solstice |
@@ -73,4 +73,47 @@ th {
 td {
   padding-right: 3rem;
 }
+
+tr.past td {
+  color: #999;
+  opacity: 0.6;
+}
+
+tr.next td {
+  font-weight: bold;
+  color: #c2410c;
+  background-color: #fef3c7;
+}
+
+tr.future td {
+  /* default styling */
+}
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var today = new Date();
+  today.setHours(0, 0, 0, 0);
+  var rows = document.querySelectorAll('table tr');
+  var foundNext = false;
+  rows.forEach(function (row) {
+    var cell = row.querySelector('td');
+    if (!cell) return;
+    var match = cell.textContent.trim().match(/^(\d{4})-(\d{2})-(\d{2})/);
+    if (!match) return;
+    var rowDate = new Date(
+      parseInt(match[1], 10),
+      parseInt(match[2], 10) - 1,
+      parseInt(match[3], 10)
+    );
+    if (rowDate < today) {
+      row.classList.add('past');
+    } else if (!foundNext) {
+      row.classList.add('next');
+      foundNext = true;
+    } else {
+      row.classList.add('future');
+    }
+  });
+});
+</script>
