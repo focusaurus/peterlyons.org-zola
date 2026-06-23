@@ -57,9 +57,13 @@ low
 | 2026-05-24 | Off: malaise |
 | 2026-05-31 | Off: ennui |
 | 2026-06-07 | On: Bill & Kay! |
-| 2026-06-14 | TBD |
+| 2026-06-14 | Off |
 | 2026-06-21 | On: Summer Solstice |
-| 2026-06-28 | TBD |
+| 2026-06-28 | Off |
+| 2026-07-05 | Off |
+| 2026-07-12 | Off: Vacation |
+| 2026-07-19 | Off: Vacation |
+| 2026-07-26 | TBD |
 | 2026-08-02 | On: Lammas (Stella's Birthday Party) |
 | 2026-09-20 | On: Fall Equinox (Pete's Birthday Party) |
 | 2026-11-01 | On: Day of the Dead |
