@@ -63,7 +63,7 @@ low
 | 2026-07-05 | Off |
 | 2026-07-12 | Off: Vacation |
 | 2026-07-19 | Off: Vacation |
-| 2026-07-26 | TBD |
+| 2026-07-26 | Off-ish |
 | 2026-08-02 | On: Lammas (Stella's Birthday Party) |
 | 2026-09-20 | On: Fall Equinox (Pete's Birthday Party) |
 | 2026-11-01 | On: Day of the Dead |
