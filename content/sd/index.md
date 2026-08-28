@@ -67,8 +67,8 @@ low
 | 2026-08-02 | On: Lammas (Stella's Birthday Party) |
 | 2026-08-09 | Off |
 | 2026-08-16 | On |
-| 2026-08-23 | On |
-| 2026-08-30 | On |
+| 2026-08-23 | On: Logan! |
+| 2026-08-30 | On: Eric! |
 | 2026-09-06 | On |
 | 2026-09-13 | On |
 | 2026-09-20 | On: Fall Equinox (Pete's Birthday Party) |
